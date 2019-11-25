@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: http://blog.sbat.top/sitemap.xml
