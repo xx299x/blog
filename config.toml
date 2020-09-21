@@ -1,71 +1,86 @@
-theme="maupassant"
-baseURL = "http://blog.sbat.top"
-languageCode = "zh-CN"
-title = "冉冉升起的博客"
-summaryLength = 10
-# disqusShortname = "yourdiscussshortname"
+Title =  "一品书生"
+LanguageCode = "zh-CN"
+BaseUrl = "https://blog.sbat.top/"
+Theme =  "next"
+MetaDataFormat =  "yaml"
+CanonifyUrls =  true
+BuildDrafts =  false
+PaginatePath =  "p"
+Paginate = 8
+DisablePathToLower =  false
+HasCJKLanguage = true
+PreserveTaxonomyNames = false
+UglyUrls = false
+PygmentsStyle = "emacs"
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+DefaultContentLanguage = "zh"
 
-[author]
-  name = "冉冉升起"
+[Params]
+  Introduce = "Programmer & Architect"
+  Description = "一品书生 | 博客 | 高效工作 | Python"
+  Keywords =  "一品书生,独立,博客,程序员,数据分析师,个人,思考,读书,笔记,技术,分享,管理"
+  Subtitle = "生产工具决定生产效率"
+  Imglogo = "/img/logo.png"
+  AuthorImg = "/img/author.jpg"
+  DateFormat = "2006-01-02"
+  YearFormat = "2006年"
+  MonthFormat = "01-02"
+  #BaiduStatsId = "0b07433b4ab8d587dae7d34e71973839"
+  #QQStatsId = "58416275"
+  # RevolverMapId = "5b4f2ucxar6"
+  Fancybox = true
+  hasCJKLanguage = true
 
-[params]
-  author = "冉冉升起"
-  subtitle = "专注于高效的工作方法"
-  keywords = "Python,R语言,冉冉升起,高效工作法"
-  description = "专注于高效的工作方法"
-  busuanzi = true 
+[Author]
+  Name = "一品书生"
 
-[menu]
+[Params.Share]
+  #DuoShuo = "lanlingzi"
+  Baidu = true
 
-  [[menu.main]]
-    identifier = "archives"
-    name = "归档"
-    url = "/archives/"
-    weight = 2
+[[Menu.Main]]
+  Name = "首页"
+  Pre = "home"
+  URL = "/"
+  Weight = 1
+# [[Menu.Main]]
+#   Name = "技术"
+#   Pre = "code"
+#   URL = "/categories/技术/"
+#   Weight = 2
+# [[Menu.Main]]
+#   Name = "感想"
+#   Pre = "tint"
+#   URL = "/categories/感想/"
+#   Weight = 3
+# [[Menu.Main]]
+#   Name = "笔记"
+#   Pre = "book"
+#   URL = "/categories/笔记/"
+#   Weight = 4
+# [[Menu.Main]]
+#   Name = "杂记"
+#   Pre = "leaf"
+#   URL = "/categories/杂记/"
+#   Weight = 5
+[[Menu.Main]]
+  Name = "归档"
+  Pre = "archive"
+  URL = "/post/"
+  Weight = 6
+[[Menu.Main]]
+  Name = "关于"
+  Pre = "user"
+  URL = "/about/"
+  Weight = 7
 
-  [[menu.main]]
-    identifier = "tags"
-    name = "标签"
-    url = "/tags/"
-    weight = 3
+[[Params.Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/xx299x"
 
-  [[menu.main]]
-    identifier = "about"
-    name = "关于"
-    url = "/about/"
-    weight = 4
-
-# 友链
-[[params.links]]
-  title = "Android Gradle权威指南"
-  name = "Android Gradle权威指南"
-  url = "http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e"
-[[params.links]]
-  title = "常用开发工具CDN镜像"
-  name = "常用开发工具CDN镜像"
-  url = "http://mirrors.flysnow.org/"
-
-# 广告
-[[params.ads]]
-  title = "领取￥1888阿里云产品通用代金券"
-  url = "https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=jdg9oj97"
-[[params.ads]]
-  title = "领取￥1888阿里云产品通用代金券"
-  url = "https://promotion.aliyun.com/ntms/act/vmpt/aliyun-group/home.html?userCode=jdg9oj97"
-  img = "https://img.alicdn.com/tfs/TB17qJhXpzqK1RjSZFvXXcB7VXa-200-126.jpg"
-[[params.ads]]
-  title = "领取￥1888阿里云产品通用代金券"
-  url = "https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=jdg9oj97"
-  img = "https://img.alicdn.com/tfs/TB1aDXhXpzqK1RjSZFvXXcB7VXa-259-194.jpg"
-
-# 评论
-[params.utteranc]
-  enable = true
-  repo = "xx299x/blog"               # The repo to store comments
-  issueTerm = "title" #设置每篇文章对应的 issue 的名字，可选 pathname title url，
-  theme = "github-light"
-
-# 版权声明
-[params.cc]
-    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
-    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
+[[Params.Socials]]
+  Name = "知乎"
+  Icon = "globe"
+  URL = "https://www.zhihu.com/people/xu-zhi-guo-53/activities"  

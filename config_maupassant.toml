@@ -1,0 +1,71 @@
+theme="maupassant"
+baseURL = "http://blog.sbat.top"
+languageCode = "zh-CN"
+title = "冉冉升起的博客"
+summaryLength = 10
+# disqusShortname = "yourdiscussshortname"
+
+[author]
+  name = "冉冉升起"
+
+[params]
+  author = "冉冉升起"
+  subtitle = "专注于高效的工作方法"
+  keywords = "Python,R语言,冉冉升起,高效工作法"
+  description = "专注于高效的工作方法"
+  busuanzi = true 
+
+[menu]
+
+  [[menu.main]]
+    identifier = "archives"
+    name = "归档"
+    url = "/archives/"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about/"
+    weight = 4
+
+# 友链
+[[params.links]]
+  title = "Android Gradle权威指南"
+  name = "Android Gradle权威指南"
+  url = "http://yuedu.baidu.com/ebook/14a722970740be1e640e9a3e"
+[[params.links]]
+  title = "常用开发工具CDN镜像"
+  name = "常用开发工具CDN镜像"
+  url = "http://mirrors.flysnow.org/"
+
+# 广告
+[[params.ads]]
+  title = "领取￥1888阿里云产品通用代金券"
+  url = "https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=jdg9oj97"
+[[params.ads]]
+  title = "领取￥1888阿里云产品通用代金券"
+  url = "https://promotion.aliyun.com/ntms/act/vmpt/aliyun-group/home.html?userCode=jdg9oj97"
+  img = "https://img.alicdn.com/tfs/TB17qJhXpzqK1RjSZFvXXcB7VXa-200-126.jpg"
+[[params.ads]]
+  title = "领取￥1888阿里云产品通用代金券"
+  url = "https://promotion.aliyun.com/ntms/act/enterprise-discount.html?userCode=jdg9oj97"
+  img = "https://img.alicdn.com/tfs/TB1aDXhXpzqK1RjSZFvXXcB7VXa-259-194.jpg"
+
+# 评论
+[params.utteranc]
+  enable = true
+  repo = "xx299x/blog"               # The repo to store comments
+  issueTerm = "title" #设置每篇文章对应的 issue 的名字，可选 pathname title url，
+  theme = "github-light"
+
+# 版权声明
+[params.cc]
+    name = "知识共享署名-非商业性使用-禁止演绎 4.0 国际许可协议"
+    link = "https://creativecommons.org/licenses/by-nc-nd/4.0/"
