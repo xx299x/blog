@@ -9,7 +9,19 @@ mapkey('<Ctrl-y>', 'Show me the money', function() {
 //unmap('v') 
 //map('v','zv');
 //map('zv','v');
-  
+
+map('cr','cS');
+map("a","'");
+// mapkey('cr', '#12Open Chrome Downloads', function() {
+
+//             scrollNodes = null;
+//             initScrollIndex();
+//             if (scrollNodes.length > 0) {
+//                 var scrollNode = scrollNodes[scrollIndex];
+//                 _highlightElement(scrollNode);
+
+// }}
+// );
 // an example to replace `T` with `gt`, click `Default mappings` to see how `T` works.
 //map('gt', 'T');
 
@@ -26,14 +38,15 @@ removeSearchAliasX('d');
 unmap('od');
 removeSearchAliasX('y');
 unmap('oy');
-removeSearchAliasX('b');
-unmap('ob');
+// removeSearchAliasX('b');
+// unmap('ob');
 //END
 //下载管理
 mapkey('gd', '#12Open Chrome Downloads', function() {
-        tabOpenLink("chrome://downloadsextension://klibmapgcnoakgokdhnfhlngdphiiinp/ui/index.htm");
-
-addSearchAliasX('g', 'Hong Kong', 'https://www.google.com.hk/search?num=30&newwindow=1&safe=strict&ei=&q=');
+tabOpenLink("extension://klibmapgcnoakgokdhnfhlngdphiiinp/ui/index.htm")}
+)
+//
+addSearchAliasX('g', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&safe=strict&ei=&q=');
 mapkey('og', '#8Open  Hong Kong Google', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "g"});
 });
@@ -337,15 +350,15 @@ mapkey('owj', '#8Open  问卷星 Deck', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "wj"});
 });
 
-addSearchAliasX('b', 'dogedoge search', 'https://www.dogedoge.com/results?q=');
-mapkey('ob', '#8Open  dogedoge Deck', function() {
-    Front.openOmnibar({type: "SearchEngine", extra: 'b'});
-});
-
-addSearchAliasX('do', 'dogedoge search', 'https://www.baidu.com/s?wd=');
+addSearchAliasX('do', 'dogedoge search', 'https://www.dogedoge.com/results?q=');
 mapkey('odo', '#8Open  dogedoge Deck', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'do'});
 });
+
+// addSearchAliasX('b', 'dogedoge search', 'https://www.baidu.com/s?wd=');
+// mapkey('ob', '#8Open  dogedoge Deck', function() {
+//     Front.openOmnibar({type: "SearchEngine", extra: 'b'});
+// });
 
 addSearchAliasX('ph', 'phrase search', 'https://www.google.com.hk/search?q=site:www.ldoceonline.com OR site:www.macmillandictionary.com OR site:thefreedictionary.com ');
 mapkey('oph', '#8phrase', function() {
@@ -368,10 +381,16 @@ mapkey('ozb', '#8Open 真不卡影院', function() {
 });
 
 
-
+//问医生
 addSearchAliasX('ys', '问医生','https://www.google.com.hk/search?q=site:haodf.com OR site:youlai.cn OR site:dxy.com ');
 mapkey('oys', '#8Open 问医生', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'ys'});
+});
+
+//ahk
+addSearchAliasX('ah', 'ahk','https://www.google.com.hk/search?q=site:ahkcn.github.io OR site:wyagd001.github.io ');
+mapkey('oah', '#8Open 问医生', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: 'ah'});
 });
 
 ////////// 翻译设置
