@@ -14,7 +14,7 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-cd public
+cd C:\Users\xx299\my_site\public\
 git add --all
 git commit -m "Publishing to gh-pages (publish.sh)"
 
