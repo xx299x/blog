@@ -393,6 +393,11 @@ mapkey('oah', '#8Open 问医生', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'ah'});
 });
 
+//ahk
+addSearchAliasX('jj', '掘金','site:juejin.cn ');
+mapkey('ojj', '#8Open 掘金', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: 'jj'});
+});
 ////////// 翻译设置
 Front.registerInlineQuery({
         url: "https://api.shanbay.com/bdc/search/?word=",
