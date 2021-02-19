@@ -1,6 +1,6 @@
 echo "Deleting old publication"
-rem rm -rf public
-rem mkdir public
+rm -rf public
+mkdir public
 git worktree prune
 rm -rf .git/worktrees/public/
 

@@ -393,10 +393,26 @@ mapkey('oah', '#8Open 问医生', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'ah'});
 });
 
-//ahk
-addSearchAliasX('jj', '掘金','site:juejin.cn ');
+//掘金
+addSearchAliasX('jj', '掘金','https://www.google.com.hk/search?q=site:juejin.cn ');
 mapkey('ojj', '#8Open 掘金', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'jj'});
+});
+
+//单词比较不同
+addSearchAliasX('di', 'diff','https://www.google.com.hk/search?q=site:wikidiff.com ');
+mapkey('odi', '#8Open 单词比较不同', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: 'jj'});
+});
+//谷歌扩展插件
+addSearchAliasX('eg', 'diff','https://chrome.google.com/webstore/search/');
+mapkey('oeg', '#8Open 谷歌扩展', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: 'eg'});
+});
+//Micrsoft 插件
+addSearchAliasX('ee', 'diff','https://www.google.com.hk/search?q=site:wikidiff.com ');
+mapkey('oee', '#8Open Microsoft插件', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: 'ee'});
 });
 ////////// 翻译设置
 Front.registerInlineQuery({
