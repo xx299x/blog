@@ -43,7 +43,7 @@ unmap('oy');
 //END
 //下载管理
 mapkey('gd', '#12Open Chrome Downloads', function() {
-tabOpenLink("extension://klibmapgcnoakgokdhnfhlngdphiiinp/ui/index.htm")}
+tabOpenLink("extension://mciiogijehkdemklbdcbfkefimifhecn/ui/index.htm")}
 )
 //
 addSearchAliasX('g', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&safe=strict&ei=&q=');
