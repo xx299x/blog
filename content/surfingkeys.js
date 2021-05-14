@@ -92,7 +92,7 @@ mapkey('ocm', '#8Open  Cmd', function() {
 });
   
 //Python
-addSearchAliasX('py', 'Python search', 'https://python3-cookbook.readthedocs.io/zh_CN/latest/search.html?q=');
+addSearchAliasX('py', 'Python search', 'https://docs.python.org/3/search.html?q=');
 mapkey('opy', '#8Open  Python', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "py"});
 });

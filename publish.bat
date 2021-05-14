@@ -1,3 +1,4 @@
+cd C:/Users/xx299/my_site/
 echo "Deleting old publication"
 rm -rf public
 mkdir public
