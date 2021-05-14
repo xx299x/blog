@@ -98,7 +98,7 @@ mapkey('opy', '#8Open  Python', function() {
 });
 
 //Selenium
-addSearchAliasX('se', 'Selenium search', 'https://selenium-python-zh.readthedocs.io/en/latest/search.html?q=');
+addSearchAliasX('se', 'Selenium search', 'https://selenium-python.readthedocs.io/search.html?q=');
 mapkey('ose', '#8Open  Selenium', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "se"});
 });
@@ -419,6 +419,14 @@ addSearchAliasX('dx', '图书馆搜索','http://book.ly.superlib.net/search?sw='
 mapkey('odx', '#8Open 图书馆搜索 ', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'dx'});
 });
+
+  
+//Python
+addSearchAliasX('pd', 'pandas search', 'https://pandas.pydata.org/pandas-docs/stable/search.html?q=');
+mapkey('opd', '#8Open  pandas', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: "pd"});
+});
+
 ////////// 翻译设置
 /* Front.registerInlineQuery({
         url: "https://api.shanbay.com/bdc/search/?word=",
