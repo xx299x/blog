@@ -23,7 +23,7 @@ echo "Generating site"
 hugo
 
 echo "Updating gh-pages branch"
-
+pause
 cd C:\\Users\\xx299\\my_site\\public\\
 
 git add --all
