@@ -328,6 +328,7 @@ addSearchAliasX('ss', '少数派搜索 search', 'https://www.google.com.hk/searc
 mapkey('oss', '#8Open  少数派搜索 document', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "ss"});
 });
+
 // Boss直聘
 addSearchAliasX('os', 'Boss直聘 search', 'https://www.zhipin.com/c101210100/ka=sel-city-101210100&/?query=');
 mapkey('oos', '#8Open Boss直聘搜索 ', function() {
