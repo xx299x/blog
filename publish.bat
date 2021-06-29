@@ -35,4 +35,4 @@ echo "Pushing to github"
 
 git push --all -f
 
-REM pause
+pause
