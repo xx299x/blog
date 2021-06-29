@@ -2,18 +2,18 @@ cd C:\\Users\\xx299\\Documents\\blog\\
 
 REM echo "Deleting old publication"
 
-REM rm -rf public
-REM mkdir public
+rm -rf public
+mkdir public
 REM pause
-REM git worktree prune
+git worktree prune
 
-REM rm -rf .git/worktrees/public/
+rm -rf .git/worktrees/public/
 
 REM pause
 REM echo "Checking out gh-pages branch into public"
-
-REM git worktree add -B gh-pages public origin/gh-pages
-
+echo cd C:\\Users\\xx299\\Documents\\blog\\
+echo git worktree add -B gh-pages public origin/gh-pages
+pause
 REM echo "Removing existing files"
 
 rm -rf public/*
