@@ -1,273 +1,547 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E5%AD%A6%E4%B9%A0%E6%97%A5%E5%BF%97/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E8%AE%A1%E5%88%92/</loc>
-    <lastmod>2020-05-29T23:54:40+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E6%9C%AA%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2020-04-08T22:52:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/%E6%95%B0%E5%AD%A6%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%93%E9%A1%B9%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-04-08T22:52:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E6%9A%82%E6%97%A0%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2020-04-08T22:52:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/%E6%96%B0%E4%B8%9C%E6%96%B9%E7%94%B0%E9%9D%99%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%AF%AD%E6%B3%95/</loc>
-    <lastmod>2020-04-08T18:54:43+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/%E8%8B%B1%E8%AF%AD%E6%80%9D%E7%BB%B4-%E8%A7%A3%E5%AF%86%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86_14194104/</loc>
-    <lastmod>2019-12-27T14:39:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-12-24t0900/</loc>
-    <lastmod>2019-12-24T10:31:51+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/%E7%AC%AC%E4%BA%94%E9%A1%B9%E4%BF%AE%E7%82%BC%E5%AD%A6%E4%B9%A0%E5%9E%8B%E7%BB%84%E7%BB%87%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%AE%9E%E8%B7%B51%E7%8F%8D%E8%97%8F%E7%89%88%E7%BE%8E%E5%BD%BC%E5%BE%97%E5%9C%A3%E5%90%89%E8%91%97/</loc>
-    <lastmod>2019-12-16T23:44:46+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-12-07t2052/</loc>
-    <lastmod>2019-12-16T07:43:07+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-12-05t2139/</loc>
-    <lastmod>2019-12-09T17:13:14+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2019-11-26T20:45:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E6%80%9D%E7%BB%B4%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2019-11-26T20:45:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-11-22t1814/</loc>
-    <lastmod>2019-11-26T20:45:58+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E6%9C%AA%E5%88%86%E7%B1%BB/</loc>
-    <lastmod>2019-11-26T15:21:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-11-17t2220/</loc>
-    <lastmod>2019-11-26T15:21:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/emacs/</loc>
-    <lastmod>2019-10-25T12:16:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-10-25t1136/</loc>
-    <lastmod>2019-10-25T12:16:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/latex/</loc>
-    <lastmod>2019-10-25T12:16:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-10-15t1455/</loc>
-    <lastmod>2019-10-15T22:10:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/</loc>
-    <lastmod>2019-10-15T22:10:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2019-10-15T22:10:45+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/r/</loc>
-    <lastmod>2019-09-24T09:32:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/vscode/</loc>
-    <lastmod>2019-09-24T09:32:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE/</loc>
-    <lastmod>2019-09-24T09:32:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/r/</loc>
-    <lastmod>2019-09-24T09:32:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-09-23t2359/</loc>
-    <lastmod>2019-09-24T09:32:09+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/linux/</loc>
-    <lastmod>2019-09-13T22:03:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/centos7/</loc>
-    <lastmod>2019-09-13T22:03:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-09-13t2157/</loc>
-    <lastmod>2019-09-13T22:01:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/firewall/</loc>
-    <lastmod>2019-09-13T22:01:32+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-09-13t2139/</loc>
-    <lastmod>2019-09-13T22:03:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E6%9C%8D%E5%8A%A1%E5%99%A8/</loc>
-    <lastmod>2019-09-13T22:03:13+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/computer/</loc>
-    <lastmod>2019-09-09T21:17:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/system/</loc>
-    <lastmod>2019-09-09T21:17:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/win10/</loc>
-    <lastmod>2019-09-09T21:17:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-09-09t2112/</loc>
-    <lastmod>2019-09-09T21:17:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E7%B3%BB%E7%BB%9F%E4%BC%98%E5%8C%96/</loc>
-    <lastmod>2019-09-09T21:17:31+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E5%8E%9F%E5%88%9B/</loc>
-    <lastmod>2019-09-23T18:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2019-09-23T18:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/python/</loc>
-    <lastmod>2019-09-23T18:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-08-30t0959/</loc>
-    <lastmod>2019-09-23T18:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E6%9C%BA%E5%99%A8%E4%BA%BA/</loc>
-    <lastmod>2019-09-23T18:27:41+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/categories/%E5%BF%83%E9%87%8C%E5%AD%A6/</loc>
-    <lastmod>2019-08-18T16:40:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/post/2019-08-18t0027/</loc>
-    <lastmod>2019-08-18T16:40:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/tags/%E8%88%92%E9%80%82%E5%8C%BA/</loc>
-    <lastmod>2019-08-18T16:40:28+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://blog.sbat.top/archives/</loc>
-  </url>
-  
-</urlset>
+<search>
+    
+     <entry>
+        <title>英语学习日记</title>
+        <url>https://blog.sbat.top/post/%E8%8B%B1%E8%AF%AD%E5%AD%A6%E4%B9%A0%E6%97%A5%E8%AE%B0/</url>
+        <categories>
+          <category>@学习日志</category>
+        </categories>
+        <tags>
+          <tag>英语学习</tag><tag>计划</tag>
+        </tags>
+        <content type="html"> 此篇博客用于记录我在学习英语中所做的努力，但是当我做这个项目的时候，已经开始学习了快一年半。有些之前做过的事情，已经记不清了。
+现在能回忆多少是多少，会不断的进行更新。
+单词 2019 DONE音标 应该是大一第一学习最后几个月，我学习了《赖世雄美语音标》。
+  每天早上和下午下课后（有时候有伞的时候打着伞），去操场跟读赖世雄音标，学音标的这段日子辛苦，等同于学习拼音一样，痛并快乐着。
+现在回忆起来，很是感激当时的自己。
+DONE朗文3000词库 该词库的备份开始于，19年的2月份左右，当时发现了anki这个软件，一眼便相中了它。找了几天的词库，最后决定要被该词库。 ABORT麦克米伦6007 背了大约1000多词，有部分是重复朗文3000的词，背到最后发现，很多词用不上，便开始了有目的的背单词。
+DONE浙江英语三级考试词汇查缺补漏 在一个三级练习册答案后附的单词表，我认真仔细通识了该三级表。最后标注下来，共有429个我不认识的单词，所以，将其全部添加到里面进行背诵。
+  ABORT大学英语四级词汇查缺补漏 由于词库都以尽背诵完毕，需要开始找新的词库。背了大量的词库，需要做习题来巩固词库，故到某宝购得英语历年真题精讲和四级词汇单词书。和三级词汇差缺补漏相似，添加了许多词进去，这次为了效率，没有和上次三级一样统计词汇数目。只进行了200页单词差缺补漏。
+以每页平均2.5个不认识单词来算，大约又添加了500词汇量左右。
+背诵的词汇量太多，很多单词都没有消化，故暂停了四级考试词汇的查缺补漏，开始搞语法。 2020 TODO三级短语1000 此计划是 [2020-05-29 周五] 开始的，计划是33天左右，每日30词，将这些单词全部背下来。
+使用anki背单词，会自动安排复习
+TODO每日复习计划 每日会复习之前背诵过的单词。已经先于一年多。
+语法 2019 对我英语帮助较大的主要有两个人，一个是赖老师，一个是田静老师。
+DONE赖世雄经典英语语法   这是在一个暑假里学习的，应该是大一学期的暑假。赖老师雄厚富有磁性嗓音陪伴了我一个暑假，他让我基本认识了英语的五大句型，还有英语简单的入门知识。赖老师是使用音频讲解，非常多的音频！最终听到非谓语动词哪里就听不下去了，确实有点长。
+很感谢赖老师引领我我入门。
+DONE新概念英语2 在大二的第二个学期里，我发现我背了诸多单词后，依旧看不懂句子，读不懂，很是郁闷。故找到新东方田静老师《新概念英语2》的视频精讲，收益颇丰富，但是懒惰，新概念2后面的习题没有做。
+共96课，每天一课，坚持了下来。从这以后，句子结构也明亮了，句子能看懂个一二三。 DONE四级英语田静语法精讲班 这个课程，我共听了两遍，巩固了之前学习的语法，田静老师开发了许多的英语做题技巧，如，从句往前推，主句四加一，等等。很棒，不过我好想快忘完了(:
+前面的内容都熟知，但到最后的长难句哪里，没有坚持复习，
+DONE《英语思维-解密英语语法的原理》 这本书非常推荐去读，它将英语时态，谓语动词，非谓语动词，全部将其逻辑剖析出来。有一种恍然大悟的感觉，从此，我的时态再也不迷茫啦:)
+DONE《英语语法高手之路》 这是在大一第二学期的暑假买的一本书，总体看下来还不错。也是系统的阐述了英语的语法，感觉还行。 ABORT《英语语法新思维》三部曲 这本书也还行，但我还是没坚持看下来，看了有三分之一左右
+2020 ABORT《新编英语阅读手册》 我以anki的方式，将该书添加到anki中，计划一天读一篇，共计150个，150天看完。没坚持下来，因为我发现看过就忘了，也用不起来，应该是我题目做得少和写作写的少的原因。 TODO《剑桥英语在用 中级》 这本书极为不错全书共175节课，每节课后都附有习题，我做到40多课之后，明显感觉到我的英语可以用出来了，例如可以用英语搜索解决一些程序上的bug，极为兴奋。
+共有175课，开始计划是一天一课，但似乎发现周期有点长，故每天两课，88天左右搞定这本。
+截止[2020-05-29 周五]我已经进行到87课，之前因为情绪上的原因，中断了些天，正打算这几天补回来。 应该到6月26号任务就结束了。
+写作 待续&amp;hellip;
+听说 2019 背诵词汇 在背单词时，必须强迫自己读出来，熟读才可以。在背《朗文3000》的时候，需要听一遍原音才能跟读一遍，导致后面阅读的时候，认识单词却不会发音。
+意识到这个问题后，逐渐的，强迫自己必须先读出来，然后再听原音，这样，逐渐的看到单词自己也能读出来了。大一的暑假，最多一天6个小时的连续朗读，嗓子读到冒烟。
+再次感谢当时的自己。
+2020 ABORT《elements_of_pronounciation》 这是练习英语连读的一本读物，各种英语连读，浊化，等等。共有167课，我大约坚持了60多课，因为我现在暂时不需要要很好的口语。
+练习了60多课后，我明显感觉到我阅读英语的连读，略读，浊化的水平提高了。现在读英语终于是有点味道了，等我专升本考完，再来继续盘它。 ABORT《新概念英语2》 我用的是美语版，也是一样，学习了60多课，就暂停了。理由和上面一样，现在要花时间在做题上面。
+DONE听音识词 之前提到过，从认识，到读出来花了相当多的时间，但是问题又来了。能读出来，但不代表能听出来，故在疫情期间又花了些时间苦练，将自己的听力词汇量升级到了3770。
+走了诸多弯路，现在是能认识，能读能听到，但是拼写方面又有点问题。下次抽时间把拼写也搞定下。
+TODO三级英语听力 我将三级英语听力全部细分剪辑，目前正在逐一击破。
+发现了点听力的规律，还需继续坚持下去。
+修订记录 [2020-05-29 周五] [23:37] 初稿完成 </content>
+    </entry>
+    
+     <entry>
+        <title>数学因式分解专项学习</title>
+        <url>https://blog.sbat.top/post/%E6%95%B0%E5%AD%A6%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3%E4%B8%93%E9%A1%B9%E5%AD%A6%E4%B9%A0/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 什么是因式分解 乘法展开的逆运算
+提公因式法（factor out GCF） 注意：提公因式要提干净。
+分组分解法（Grouping）   十字交乘法     公式法（By Identities） 拆项法（Splitting terms）   添项法（Adding&amp;amp;Subtracting terms）   双十字交乘法（Cross-Method） 可以用图中的-x做判定 代换法（by substitution）   猜数字法（guess &amp;amp; check） 将后面括号的数字带入原式看是否等于0
+待定系数法（undermined coefficients） 太过困难，用不到.. 因式分解的10個關鍵技巧(下篇) - YouTube
+</content>
+    </entry>
+    
+     <entry>
+        <title>新东方田静大学英语四六级语法</title>
+        <url>https://blog.sbat.top/post/%E6%96%B0%E4%B8%9C%E6%96%B9%E7%94%B0%E9%9D%99%E5%A4%A7%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%9B%E5%85%AD%E7%BA%A7%E8%AF%AD%E6%B3%95/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 导学 句子为核心
+一件事 简单句
+多件事 多个句子连接
+并列句 复合句 重点不同
+简单句 简单句的核心构成 n. &#43; v. 主语 &#43; 谓语
+谓语动词分类  实义动词  动词是否独立完成区分及物动词和不及物动词- 不及物动词- 主谓 vi.- 及物动词动作涉及到了其他物- 主谓宾- 主谓双宾授予动词- 表示方向用toThey offered me a vacant post to me.They offered a vacant post to me.- 表「为了，目的」用forI bought you a present.I bought a present for you.- 主谓宾补I find HongKong very beautiful.I find HongKong a good place for shopping.- 区分及物动词和不及物动词的方法- 意思- 介词有介词是不及物动词  无实义动词  (连)系动词- 主系表I am very happy.- be 动词（单独）- 「变得」get become turn go grow- 感官动词「看_听_闻_尝_感觉起来...」- keep remain/ seem appear 简单句的核心变化(谓语动词)   谓语的变化 三态一否
+  时态
+  语态
+  - 被动语态- 及物动词（重要）宾语提前- be &#43; done- be代表被动时间，变成对应的各种时态。- 注意be的单复数- 现在进行时被动is &#43; being &#43; done- 现在完成时被动has been &#43; done- 不及物动词加介词- 与情态语态结合- can could may must  情态  - 情态动词 &#43; 动词原形- 情态动词无人称变化- 事态变化有限- 常用的情态动词  过去式可表达委婉的- 否定/疑问  否定  主宾表   名词/代词
+  doing/to do
+  - to do常用语形式主语it- 可能是一长传的从句做主语`Having only a foggy view of the future` is of little good.  多个主宾表并列  That doesn&#39;t mean `sitting down` and `doing nothing at all`. 简单句的补充 限定词_形容词副词_介词短语   形容词修饰名词
+  副词形容动词
+  例子
+  Girls play games.Girls are playing games.Lovely girls are playing games happily.Thousands of Lovely girls are playing games very happily.After class thousands of lovely girls are playing games very happily.  介词短语  - in on at- from to从哪里来到哪里去- into onto- with without- of- by1. 通过...方法。2. 被...做。3. 旁边。- for- about 非谓语动词 先看修饰谁（名词性，句子），然后再看主动被动还是目的。
+读句子时，修饰成分可以先不看。
+ doing  表主动1. `Passing` planes can be heard night and day.2. The teacher came into the classroom, `holding a book` in his band.- 作用1. 修饰名词。2. 修饰句子（前面有逗号）。- 如何判断？看离谁近，看和doing的关系。  done  表被动。1. He bought a `used` car.2. The teacher came into the classroom `followed` by five students.  todo  表目的。I am `to see you`.I have a lot of homework `to do`.- 判断挨着名词修饰名词，挨着动词或者没有名词一般修饰整句话。 并列句 句子之间的连接，多件事一样重要。
+顺接 and both &amp;hellip; and &amp;hellip; not only &amp;hellip; but &amp;hellip; as well not only &amp;hellip; but also &amp;hellip; 转折 &amp;hellip;but&amp;hellip; &amp;hellip;yet&amp;hellip; &amp;hellip;while&amp;hellip; 注意 however 是副词不是 选择 &amp;hellip; or &amp;hellip; either &amp;hellip; or &amp;hellip; neither &amp;hellip; nor &amp;hellip; 因果 &amp;hellip; for &amp;hellip; &amp;hellip; so &amp;hellip; 特点 并列句相同的成分可以省略，余下的可以保持不变    I am a teacher and I like English. I am a teacher and like English. I am lying in bed and I am reading a book. I am lying in bed and reading a book. I want to leave and I want to go abroad. I want to leave and to go abroad.  复合句 名词性从句 复合句 = 主语 &#43; 从句
+特点：写法相同，位置不同
+名词性从句 主语从句 写法同宾语从句，that不能省略。
+ 形式主语it  将it 放在句首，然后将主语放在最后。 宾语从句（重点） 连接词 &#43; 陈述句
+ 特殊疑问句变宾语从句  主语提前![](/ox-hugo/2020-04-01_10-18-39_screenshot.png)  一般疑问句变宾语从句（yes/no question）  1. 主语提前.2. 加入whether / if    位置（三种）  - 动宾- 及物动词I don&#39;t know `when you will finish the work`.- 授予动词No one tells me `when you will finish the work`.- 介宾I worry about `whether I hurt her feelings`.- 形容词 &#43; 宾语从句形容词被省略.Are you positive `(that) you&#39;ve never seen that man before?` 表语从句 写法大致同宾语从句在系动词之后
+同位语从句 一个句子作同位语，其作用是解释说明名词。写法 位置：在需要解释的抽象名词后如：fact，idea，news，dream，suggestion，advice，report&amp;hellip; 同宾语从句，但that不能省略。
+定语从句 修饰限定名词。 连接词需要做成分，连接词称作关系词。
+关系词的选择   定语从句分类  限定性  名词范围不明确，不能用逗号隔开，不能省略&amp;lt;br /&amp;gt;I met your `friend \_\_\_\_ who is staying in Paris.`  非限定性  名词范围明确1. 可以修饰整句话  练习     介词提前的定语从句 如有介词，可将介词提前，关系词不可省略且不能用who和that。
+ 限定性定语从句      非限定性定语从句     状语从句 写景状物，表达描述性的信息
+写法 完整的陈述句、
+从属连词 &#43; 一个完整的陈述句
+状语从句分为9种，主要由从属连词来决定
+ 时间状语从句  when、while、as、before、after、since、until、as soon as、no sooner...than  地点状语从句  where  原因状语从句  because、since、as  结果状语从句  so/such... that,so that...&amp;lt;br /&amp;gt;太...以至于.....  目的状语从句  so that...、in order that...后面要有情态动词  条件状语从句  if、unless、as long as  让步状语从句  although、though、even though、as  比较状语从句  than、as  方式状语从句  as 时态 该用啥用啥，两种特殊情况
+ 时间状语中表示将来，条件状语中表示将来都不用将来，都使用一般现在时表示将来。  If it rains tomorrow,we will not go to the park.主将从现，只有在时间状语中和条件状语从句中 位置 前中后都可以放： 特殊用途的句子 强调 It is &amp;hellip; that &amp;hellip;/It was &amp;hellip; who I want to go to America this summer.
+ 强调宾语  It is `America` that I want to go to this summer.  强调主语  Lisa likes cooking at home.It is `Lisa` that likes cooking at home.It is `Lisa` who likes cooking at home.  强调状语  We used to home meetings in the cafe.It was `in the cafe` that We used to home meetings..  动词和形容词不能强调  倒装 主谓倒装  全部倒装  In the mountain lies a castle.Here comes the bus.- There be &#43; n.- There be &#43; n. &#43; 介词短语There There be &#43; n.- There &#43;情态动词 &#43; be &#43; n. &#43; 介词短语  部分倒装  把陈述句变成一般疑问句有三种情况需要倒装：- 否定词 位于句首not、no、never、hardly、little、scarcely、seldom、not until、not only...- only 位于句首1. The poor man had not only been arrested,but he had been sent to prison as well.`Not only` &amp;lt;span class=&amp;quot;underline&amp;quot;&amp;gt;had&amp;lt;/span&amp;gt; the poor man &amp;lt;span class=&amp;quot;underline&amp;quot;&amp;gt;been arrested&amp;lt;/span&amp;gt;,but he had been sent to prison as well.- 特殊Natural disasters will reduce, `only when` we solve the problems of environmental pollution.Only when we solve the problems of environmental pollution, will Natural disasters reduce. 虚拟 真题应用 四六级真题长难句分析
+基本结构长难句 断开  标点  - 逗号如果两端连接的是词或者词组，不能断- 冒号- 分号  连接词  从句开始于连接词，结束语三个位置- 标点- 例1But this is a real-life argument before a Supreme Court `*that* has a well-earned reputation for looking out for the interests of large corporations.`这是真实生活中面临的一个争论，在一个最高法院之前。一直以来获得名声来照顾大的企业利益的。最高法院是照顾大的企业利益的- 例2`If it has to hire a caregiver for every two children`,it can&#39;t really achieve any economics of scale on labor to save money `when other expenses go up.`如果必须为每两个孩子雇佣一个照顾的人，他不能实现在劳动力经济上省钱，当其他费用在上涨的时候。- 例3More than half of all recent graduates are unemployed `or` in jobs `that` do not require a degree, `and the amount of student-loan debt carried by households has increased more than five times since 1999.`超过半数的近期毕业生处于失业状态或者从事于不需要学委的工作中，而且家庭学生贷款的数额自1999年以来提升了5倍多。- 下一个连接词之前- 例1Imagine the number of teaching jobs `that might be eliminated` `if this could be done for math, economics,chemistry,and so on.`如果，如果数学、经济学、化学等学科都能做到这一点，想想可能被废除的教师工作的数量- 例2Although it has been nearly 30 years since the first commercial mobile-phone network was launched,advertisers have yet to figure out how to get their messages out to mobile-phone users in a big way.尽管第一个商业移动电话网络已经诞生近30年了，但广告商们仍未找到将他们的信息大规模传递给移动电话用户的方法。- 第二个谓语动词前- 例1Those `who stay on for an additional two years` can earn a master&#39;s degree `that qualifies them as nurse practitioners or elinical nurse specialists.`那些再工作两年的人可以获得硕士学位，从而成为执业护士或普通护理专家找先找从句，先看主句。- 例2People `who score on personality tests as more sympathetic` cry more than those `who are more rigid or have more self-control`.在性格测试中得分较高的人比那些性格较刚强或自我控制能力较强的人更容易哭。并列连词不一定会断开- 例3Though the United States has fewer women in the workforce, `American women who choose to be employed` are far more likely to work full-time and to hold high-level jobs as managers or professionals.虽然美国的女性劳动力较少，但选择就业的美国女性更有可能全职工作，并担任高层管理人员或专业人士。  分析主谓  先找谓语动词- 如何判断从句类型？如果前面的词是名词，百分百谓语动词- 主谓主谓后面的为从句This is the best movie `I have seen.`- 主主谓谓中间的从句The present `he gave me` was very amazing.- 例1  - 例2`When these students encounter a new problem of the same type on a test`, `they&#39; re` able to transfer the knowledge `they&#39;ve gathered more effectively` than those `who were the passive recipients of someone else&#39;s expertise.`  当这些学生在考试中遇到相同类型的新问题时，他们能够比那些被动接受他人专业知识的学生更有效地转移自己所收集到的知识。 简化 去修饰 留核心，修饰成分有：形容词、副词、介词短语、非谓语动词、冠词、数词、非限定性定语从句例外：系动词之后的形容词为核心，不能去
+  定位谓语动词
+  去修饰找核心
+  例1
+  Over the past few months `it has been working hard`, with the help of media consultants, to play down its cosy reputation in favour of something more academic and serious.  在过去的几个月里，在媒体顾问的帮助下，该公司一直在努力工作，以淡化其舒适的声誉，转而追求更学术、更严肃的东西。  例2  Printing with moveable type on paper dramatically reduced the cost of producing a book compared with the old-fashioned ones handwritten on vellum, which comes from sheepskin.![](/ox-hugo/2020-04-08_17-27-37_screenshot.png)用可移动的字体在纸上印刷大大降低了生产一本书的成本，而传统的手写在羊皮上的成本则来自羊皮。  例3  A generation ago, female faces were rare and, even today, visitors walking through the first floor of LeConte Hall will see a full corridor of exhibits honoring the many distinguished physicists who made history here, virtually all of them white males.  上一代人以前，女性的面孔是罕见的，即使在今天，游客走过勒孔特大厅一层时，也会看到一整条走廊的展品，向在这里创造历史的许多杰出物理学家致敬，几乎所有人都是白人男性。  例4  The same dramatic technological changes that have provided marketers with more communications choices have also increased the risk that passionate consumers will voice their opinions in quicker, more visible, and much more damaging ways.  剧烈的技术变革为营销人员提供了更多的沟通选择，但同时也增加了这样一种风险，即热情的消费者会以更快、更明显、破坏性更大的方式表达自己的观点 特殊结构长难句 分裂结构 去分裂
+  插入式
+  后移式
+  例1
+  There is growing fear among vice-chancellors that this revenue-as well as the cultural, academic and economic benefit international students bring-is being put at risk.  大学校长们越来越担心，这种收入——以及留学生在文化、学术和经济上带来的好处——正面临风险。 嵌套结构  例1  Among the government&#39;s most interesting reports is one that estimates what parents spend on their children.![](/ox-hugo/2020-04-08_17-48-24_screenshot.png)政府最有趣的报告之一是估计父母花在孩子身上的钱。  例2  A survey of 439 medical technicians found that 55 percent of technicians who monitor bypass machines acknowledged that they had talked on cellphones during heart surgery.  一项对439名医疗技术人员的调查发现，55%监控心脏搭桥机的技术人员承认，他们在心脏手术期间曾打过电话。 平行结构  例1  `The English, the Germans, the outch and the French` were investing in Britain&#39;s former colony.![](/ox-hugo/2020-04-08_17-54-59_screenshot.png)英国人、德国人、奥奇和法国人都在这个英国前殖民地投资。  例2  Both areas are critical to producing citizens who can participate effectively in our democratic society, become innovative leaders, and benefit from the spiritual enrichment that the reflection on the great ideas of mankind over time provides.![](/ox-hugo/2020-04-08_18-00-56_screenshot.png)先找并列连词这两个领域对于培养能够有效参与我们民主社会的公民至关重要，他们能够成为有创新精神的领导人，并受益于对人类伟大思想的反思所带来的精神财富。  例3  Several hours after a meal, people&#39;s hunger levels were predicted not by how much they&#39; deaten but rather by how much food they&#39;d seen in front of them...  餐后几小时，人们的饥饿程度不是由他们吃了多少食物来预测的，而是由他们在面前看到了多少食物来预测的。  例4  But brains are the superior choice when you want information to change, in interesting and useful ways: to connect up with other facts and ideas, to acquire successive layers of meaning, to steep for a while in your accumulated knowledge and experience...![](/ox-hugo/2020-04-08_18-08-44_screenshot.png)但是，当你想要以有趣和有用的方式改变信息时，大脑是更好的选择:与其他事实和想法联系起来，获得连续的层次的意义，在你积累的知识和经验中浸泡一段时间…… 真题长难句综合运用 例1 Indeed, according to surveys, employers have expressed a preference for students who have received a broadly-based education that has taught them to write well, think critically, research creatively and communicate easily. 事实上，调查显示，雇主更青睐那些接受过广泛教育的学生，这些教育让他们能够很好地写作、批判性思维、创造性研究和轻松沟通。
+例2 Cole and Fredrickson found that people who are happy but have little to no sense of meaning in their lives have the same gene expression patterns as people who are responding to and enduring chronic adversity.
+  Cole和Fredrickson发现，那些快乐但对生活没有意义的人，他们的基因表达模式和那些面对和忍受长期逆境的人是一样的。
+</content>
+    </entry>
+    
+     <entry>
+        <title>英语思维 解密英语语法的原理读书笔记</title>
+        <url>https://blog.sbat.top/post/%E8%8B%B1%E8%AF%AD%E6%80%9D%E7%BB%B4-%E8%A7%A3%E5%AF%86%E8%8B%B1%E8%AF%AD%E8%AF%AD%E6%B3%95%E7%9A%84%E5%8E%9F%E7%90%86_14194104/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 小技巧 谓语动词  在主动时态中，只有 完成进行时态 有 been 在被动态中，有been的有两种情况  完成态 完成进行态 的被动有 being    非谓动词  不定态中有be，和been的为被动语态 进行态中有being的为被动语态，有been的要么完成态，要么完成进行态。  英语思维 解密英语语法的原理_14194104 五张大图语法框架 英语时态框架表   被动语态时态表   非谓语动词框架表   目录 英语非谓语动词的四态 进行态、一般态、不定态、完成态四态和四时组合演变出十六态。
+动词功能框架图   如何理解常态、非常态和瞬态？ 常态是指事实、真理以及长期稳定不变的东西。非常态是指一件事情在一段时间内就可以完成的事情，进行时。瞬态是指同时发展，很快的就可以完成一系列的动作。
+如何理解过去将来时？ 过去将来时是以过去的某事为基准参考，从相对过去跨越到相对的未来。
+现在一般时态VS现在进行时态VS一般将来时态 一般将来时，将来进行时，现在进行时   将来完成时表达将来之前的将来时间的信息 be to do 真实条件句，if和when的差异 非真实条件句例子 get 型被动语态思维及其应用 句子举例 非谓语动词组合与功能表 非谓语不定态功能 非谓语动词时态例句 完成态的例句 完成态何时表示完成，何时表示被动？ 完成态接have表示完成，无被动内涵。完成态接be主要表示被动有完成内涵
+疑问句的思维练习，疑问句的例句 主动疑问句的例句 被动疑问句的例句 英语句子结构框架 语法分析基础 思维小贴士索引 </content>
+    </entry>
+    
+     <entry>
+        <title>R语言知识点总结</title>
+        <url>https://blog.sbat.top/post/2019-12-24t0900/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 数据对象类基本类型   查看数据类型 注意：数据类型和数据对象类型并不相同。具体查看一下链接：https://www.jianshu.com/p/47a15297a5f2
+   Names function     str() 查看数据对象类型，如果是   class() 查看数据对象类型   str() 查看数据对象类型，如果是   mode() 查看数据基本类型   typeof 查看数据基本类型，与mode()区别暂不清楚    Factor 每个Factor对象都有levels
+   name function     level() 查看因子的类型，可以重新赋值        数据框    names function     names() 给数据框重命名   str() 查看数据框数据类型        数据类型转换 使用as.数据类型
+环境配置 工作路径的读取和设置 getwd() #获取当前工作目录 setwd(&amp;#34;yourpath&amp;#34;) #设置当前目录 normalizePath(&amp;#39;~&amp;#39;) #查看用户目录 Sys.getenv(&amp;#34;HOME&amp;#34;) #查看HOME目录 getOption(&amp;#34;defaultPackages&amp;#34;) #查看启动时默认的安装包 Sys.getenv(&amp;#34;R_LIBS_USER&amp;#34;) #查看LIBS 目录 初始化配置 更换源地址为中国地址：
+options(repos=structure(c(CRAN=&amp;#34;https://mirrors.tuna.tsinghua.edu.cn/CRAN/&amp;#34;))) 配置默认的编码为中文
+Sys.setlocale(category = &amp;#34;LC_ALL&amp;#34;,locale = &amp;#34;Chinese (Simplified)_China.936&amp;#34;) 在工作目录中设置创建 .Rprofile 文件把上面两段代码放进去即可初始化。
+</content>
+    </entry>
+    
+     <entry>
+        <title>第五项修炼 知识笔记</title>
+        <url>https://blog.sbat.top/post/%E7%AC%AC%E4%BA%94%E9%A1%B9%E4%BF%AE%E7%82%BC%E5%AD%A6%E4%B9%A0%E5%9E%8B%E7%BB%84%E7%BB%87%E7%9A%84%E8%89%BA%E6%9C%AF%E4%B8%8E%E5%AE%9E%E8%B7%B51%E7%8F%8D%E8%97%8F%E7%89%88%E7%BE%8E%E5%BD%BC%E5%BE%97%E5%9C%A3%E5%90%89%E8%91%97/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 系统思考 在很久以前，我在解决问题的时候，总有很多困惑。比如制定学习方向，你当前学习的是否真的有用？学习什么东西是最划算的？真的不知道现在学的这些对我的影响有多大。还有当决策一件事情的时候，当时根本无法评判该决策带来的后果，我比较喜欢对事物有绝对的把控。某一天，我突然想到，系统思考可能是方向，故检索到了这本书。这本书是将如何管理公司、组织，是一名适合管理者的书，但我并不是管理者。我只想管好我自己，决定好生活中的每一件事情，既然是系统，我就可以套用，把他套用到我的生活中来。
+第五项修炼学习型组织的艺术与实践1珍藏版（美）彼得·圣吉著 目录 第一部分 我们的行动如何才能创造和改变现实 第二部分 学习型组织如何看待世界的基石 第三部分 建设学习型组织 第四部分 实践中的反思 术语 那五项修炼？
+自我超越 心智模式 共同愿景 团队学习 系统思考 核心思想：整体大于局部的组合 如何实践 七种学习障碍 我就是我的职位 这个问题我已经想过，和做正确的事情的思想有相同之处，要从事件的角度去看问题。
+对手在外部 你若盛开，蝴蝶自来
+执着于短期事件 不要钻牛角尖
+温水煮青蛙 要重视任何细节
+试错法的错觉 很多时候，试错的成本过于庞大或者需要十年几十年的时间才能显现出来。我们从经验中习得最好，但许多最重要的决策所带来的结果恰恰是我们无法直接体验的。
+啤酒销售游戏 零售商、分销商、啤酒厂都没有考虑需求如果下降了怎么办这个问题。如果从这个问题开始，那么就可能会进行一个系统的思考，系统的推演。视野太小。零售商的4箱突然的订单可能导致分销商20箱的订单。
+存货加速器 系统结构影响行为模式 吃两颗阿司匹林并等待原则 第五项修炼的法则 今天的问题来自于昨天的解决方法 一个接着一个问题的积累，造就了今天的局面。
+你越使劲儿推，系统的反弹力越大 补偿反馈，愿望良好的措施介入后引起系统的反应，结果抵消了介入行动所带来的好处。
+情况变糟之前会先变好 要居安思危
+选择容易的办法往往会无功而返 解决问题时，一定要系统思考。用惯性思维解决问题会让你沉迷在解决问题中的舒适感，换句话说，执行解决方案比制定方案容易。疗法可能比疾病更糟糕-转移负担给介入者 例子可能很多，密码管理器就是个例子，你把所有密码都交由它管理，那么你记密码的能力就非常弱。得到的启示是：加强系统承担自己的负担的能力
+快即是慢 不要只解决表面问题
+因和果在时空中并不紧密相连 问题出现了，要从根源上看明白这个问题
+微小的变革可能产生很大的效果-但最有效的杠杆常常不易被发现 寻找高效杠杆，一件事情真正起作用的，只有20%，然而这20%解决了，就相当解决的问题的80%。
+鱼和熊掌可以兼得-但不是马上 相悖的事件可以通过系统优化的方法使其共同发展
+把大象切成两半得不到两头小象 各个部分需要去看清整体，然后在调度自身。部分最优可能不会走太远。3
+不去责怪 遇到问题时候，责怪对问题的解决毫无意义，需要思考的是，为什么会发生这个问题？每一件事情，都能追溯根源。
+Notes for page 90</content>
+    </entry>
+    
+     <entry>
+        <title>蓝桥杯算法练习</title>
+        <url>https://blog.sbat.top/post/2019-12-07t2052/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 比赛信息 考题形式  填空题只要答案 编程大题要求只能使用编程解决问题，要尽可能考虑可行性和效率问题。  考察范围   入门篇 斐波那契函数（Fibonacci） &#43;name: Fibonacci
+class Fibonacci: @staticmethod def Recursion(n): if n == 0: return 0 elif n == 1: return 1 else: return __class__.Recursion(n-1) &#43; __class__.Recursion(n-2) @staticmethod def GeneralFor(n): if n == 0: return 0 elif n == 1: return 1 else: pre = 0 next = 1 for _ in range(1,n): result = pre &#43; next pre = next next = result return result @staticmethod def GeneralWhile(n): if n == 0: return 0 if n == 1: return 1 pre = 0 next = 1 while n &amp;gt;= 2: n -=1 result = pre &#43; next pre = next next = result return result @staticmethod def Python(n): if n == 0: return 0 elif n == 1: return 1 else: pre = 0 next = 1 for _ in range(1,n): result = pre &#43; next pre, next = next, result return result print(Fibonacci.Recursion(8)) print(Fibonacci.GeneralFor(8)) print(Fibonacci.GeneralWhile(8)) print(Fibonacci.Python(8)) # n=int(input()) f=[1,1,1] if n&amp;gt;2: for i in range(3,n&#43;1): f.append((f[i-1]&#43;f[i-2])%10007) print(f[n]) 圆的面积 from decimal import Decimal from math import pi # r = input() r = Decimal(r) area = r**2*Decimal(pi) print(area.quantize(Decimal(&amp;#39;0.0000000&amp;#39;), rounding=&amp;#34;ROUND_HALF_UP&amp;#34;)) 前n项和 # n = int(input()) sumN = n &#43; (n*(n-1))/2 print(int(sumN)) 数列排序 冒泡算法 之前的数和之后的数循环比较，如果之前的数大于之后的书，交换位置，否则不换位置。比较次数是数列长度-1次。 def bubbleSort(nums): for sums in range(len(nums) - 1): # 遍历 len(nums)-1 次 for pre in range(len(nums) - sums - 1): # 已排好序的部分不用再次遍历 next_ = pre &#43; 1 if nums[pre] &amp;gt; nums[next_]: nums[pre], nums[next_] = nums[next_], nums[pre] # Python 交换两个数不用中间变量 return nums n = int(input()) n_txt = input() n_list = [int(i) for i in n.split()][:n] for i in n_list[::-1]: print(i,end=&amp;#34; &amp;#34;) import collections n = int(input()) n_txt = input().split() n_list = collections.deque([]) for i in range(n): n_list.append(int(n_txt[i])) for i in range(n): print(n_list.pop(),end=&amp;#34; &amp;#34;) </content>
+    </entry>
+    
+     <entry>
+        <title>Python查缺补漏和实用技巧</title>
+        <url>https://blog.sbat.top/post/2019-12-05t2139/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>暂无标签</tag>
+        </tags>
+        <content type="html"> 输入输出重定向 test.py &amp;lt; command.txt &amp;gt; output.txt
+Python技巧OR特性 Python 整洁之道 断言 assert expression1 expression2 当expression1为F时，出发expression2
+字符串输入的技巧 charTest = (&amp;#34;I am text 1,&amp;#34; &amp;#34;I am text 2,&amp;#34; &amp;#34;I am text 3&amp;#34;) print(charTest) 字符串会自动合并，将三段字符串全部合并。
+巧妙地放置逗号 listTest = [1, 2, 3, 4 ] print(listTest) 下划线、双下划线（dunder)及其他   在类方法中，单下划线只是意义上的内部调用约定，实际没有影响
+  双下划线是放改写操作，其方法名称会改为_模块名__方法名。
+  变量名使用中，单下划线做为临时变量使用极为方便优雅。
+  ```pythoncar = (&#39;red&#39;, &#39;auto&#39;, 12, 3812.4)color, _, _, mileage = carprint(color)print(mileage)print(_)````_`作为Python REPL中的一个特殊变量。下划线也可以获取先前计算的值：```python20&#43;3print(_)``` 字符串 使用 ~f&amp;quot;我是第{first}名，他是第{second}名。&amp;quot;~ 来格式化字符串。
+from string import Template name = &amp;#34;June&amp;#34; t = Template(&amp;#39;Hey, $name!&amp;#39;) t = t.substitute(name=name) print(t) 函数 特性  Python中一切皆为对象，函数也不例外。可以将函数分配给变量或储存在数据结构之中。作为头等对象，函数还可以被传递给其他函数或作为其他函数的返回值。 头等函数的特性可以用来抽象并传递程序中的行为。 函数可以嵌套，并且可以捕获并携带父函数的一些状态。具有这种行为的函数成为闭包。 对象可以被设置为可调用的，因此很多情况下可以将其作为函数对待。（call)  lambda  lambda函数是单表达式的函数，不必与名称绑定。 lambda函数不能使用普通的Python语句，其中总是包含一个隐式return语句。 使用前总是先问问自己： *使用普通具名函数者或者列表解析式是否更加清晰。  装饰器  一个Python教程写的好不好，看其中对装饰器的讲解就能知道了。
+  装饰器用于定义可重用的组件，可以将其应用与可调用对象以修改其行为，同时无需永久修改可调用对象本身。 @语法只是在输入函数爽调用装饰器的简写。在单个函数上应用多个装饰器的顺序是从底部到顶部（装饰器栈）。 为了方便调试，最好在自己的装饰器中使用 functools.wraps 将被装饰对象中的元素数据转移到修饰后的对象中。  类与面向对象 在定义类时添加 __repr__ 属性, python2中是 __unicode__ 方法 class Car: def __init__(self, color, mileage): self.color = color self.mileage = mileage def __repr__(self): return (f&amp;#39;{self.__class__.__name__}(&amp;#39; f&amp;#39;{self.color!r}, {self.mileage!r})&amp;#39;) z = Car(&amp;#34;Red&amp;#34;, 37281) print(z) 定义自己的异常类 class NameTooShortError(ValueError): pass def validate(name): if len(name) &amp;lt; 10: raise NameTooShortError(name) validate(&amp;#34;Jane&amp;#34;) Traceback (most recent call last): File &amp;ldquo;&amp;rdquo;, line 8, in File &amp;ldquo;&amp;rdquo;, line 6, in validate __main__.NameTooShortError: Jane
+克隆对象来做测试 import copy _ = [0,1,2,3] class A: pass a = list(_) print(_ is a) b = copy.copy(_) print(_ is b) c1 = A() c2 = copy.deepcopy(A) print(c1 is c2) namedtuple pass
+类变量  类变量用于类的所有实例之间共享数据，类变量属于一个类，在类的所有实例中共享，而不是属于某个特定的实例。 类变量都是特定于每个实例的数据，属于单个对象实例，在类的其他实例共享。每个实例变量都针对特定实例单独储存了一份。 因为类变量可以被同名的实例变量「遮盖」，所以很容易（意外地）由于覆盖类变量而引入 bug 和奇怪的行为。  实例方法、类方法和静态方法  实例方法需要一个类实例，可以通过 self 访问实例。 类方法不需要实例，不能访问实例（self），但可以通过cls访问类本身。也就是说，在没有实例的时候，就可以调用的方法，该方法可以调用类本身进行实例化。 静态方法不能访问cls，或self，其作用和普通函数相同，单属于类的名称空间。 静态方法和类方法能（在一定程度上）展示和贯彻开发人员对类的设计意图，有助于代码维护。  @classmethod @staticmethod
+数据结构 栈 collections.deque 是比较好的通用栈实现。
+优雅的循环和美丽的迭代器 解析式 print([i*i for i in range(-9,10) if i % 2 == 0 ]) print({i:i*i for i in range(-9,10) if i % 2 == 0}) print({i*i for i in range(-9,10) if i % 2 == 0}) 列表的切片 z = [i for i in range(100)] print(z,z[::-1],z[::2],z[::-2],sep=&amp;#34;\n&amp;#34;) 迭代器  生成迭代器  &amp;lt;a id=&amp;quot;code-snippet--iter&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;```pythonz = [i for i in range(100)]z_iter = iter(z)for i in range(5):print(&amp;quot;用iter生成器生成的迭代器：&amp;quot;,next(z_iter),sep=&amp;quot; &amp;quot;)z_iter2 = (i for i in range(100))for i in range(5):print(&amp;quot;用解析式生成的迭代器：&amp;quot;,next(z_iter2),sep=&amp;quot; &amp;quot;)class egIter:def __init__(self,maxIter):self.maxIter = maxIterself.count = 0def __iter__(self):return selfdef __next__(self):if self.count &amp;gt;= self.maxIter:raise StopIterationself.count &#43;= 1return self.countz_iter3 = egIter(10)for i in range(100):try:print(&amp;quot;这里是类定义的迭代器&amp;quot;,next(z_iter3),sep=&amp;quot; &amp;quot;)except StopIteration:break``` </content>
+    </entry>
+    
+     <entry>
+        <title>提问的秘密</title>
+        <url>https://blog.sbat.top/post/2019-11-22t1814/</url>
+        <categories>
+          <category>@读书笔记</category>
+        </categories>
+        <tags>
+          <tag>思维方式</tag>
+        </tags>
+        <content type="html">  1学会提问有什么用 2用问题理清思路 3重视审视开放式与封闭式问题  3.1开放式与封闭式对比 3.2为封闭式问题「平反」 3.3让封闭式问题更加可控 3.4更加巧妙地封闭式问题 3.5让开放式问题更聚焦 3.6如何用提问收集敏感信息 3.7如果问「为什么」的问题   4设计强有力的问题  4.1投射提问法 4.2上堆下切的的魔力提问    1学会提问有什么用 2用问题理清思路 3重视审视开放式与封闭式问题 3.1开放式与封闭式对比 3.1.1沟通效率高 3.1.2问题的发散性对比 3.1.3问题控制力的对比 3.1.4回答难度与统计便利性的对比 3.2为封闭式问题「平反」 3.2.1用封闭式问题试探对方状态 3.2.2封闭式问题从易到难打开局面 3.2.3用封闭式问题控制局面，引导方向 3.2.4关于承诺和一致 「如果一开始没有拒绝，后面就更难了。 –达芬奇」
+ 女：你爱我吗？
+男：爱。
+女：那你给我买个包包吧。
+男：买。
+ 承诺和行为要一这就叫做承诺和一致
+3.3让封闭式问题更加可控 跳出你的控制的时候，更难以挽回
+ 「先生，我们公司最近有不少优惠，您有兴趣吗？」
+「没有。」
+ 面对这种问题，可以有两种方法：
+ 让对方让对方高概率的按照你设想的答案回答。 将封闭式问题设计成可以「左右逢源」。  3.3.1让对方让对方高概率的按照你设想的答案回答 「胖」「高」「经常」「慢」「大」「开心」「想」「喜欢」等，这类「模糊词」往往没有标准定义，这是问题失控的一大源头。 评价类 、 情绪类 、 程度类 的词都可归为「模糊词」应对方法：
+3.3.1.1叙述背景–制定客观标准 用客观描述类语言替代主观评价类语言。
+ 原句：「你工作压力大吗？」
+改进：「工作中，你会不会遇见一些不开心的事情呢？」
+说明：压力大与否是个程度类的描述，可以用具体的情景去替代。
+ 3.3.1.2叙述背景–指定目的性标准 增加约束性条件，引导对方思维
+ 原句：「你工作压力大吗？」
+改进：「有时候到了月底指标完成不了，你的压力也挺大吧？」
+说明：直接问工作压力大与否，对方可能会回忆最近的工作情况，问题容易失控。二如果将问题带入月底指标完成不了的情景，对方回答压力大的可能性就要大得多
+ 3.3.1.3横向比较引导判断 通过对比来引导对评价或感知类词语判断
+ 原句：「你的工作压力大码？」
+改进：「在这个新岗位上，是不是比以前的岗位压力更大啊？」
+说明：当事人的抗压能力是提问者无法判断的，所以这是一个主观评价类问题。但新岗位是不是比原来的岗位压力更大，这个问题则相对偏客观。
+ 3.3.2将封闭式问题设计成可以「左右逢源」 3.3.2.1从请求对方评价到有多种选择的细节描述  「先生，您喜欢这款手机吗？」
+「先生，您喜欢这款手机的颜色吗？」
+ 3.3.2.2从请求行为支持到过去是否发生过对应行为  「先生，关于这项优惠，我给您介绍一下好吗？」
+「先生，关于这项优惠，之前有没有我的同事给您介绍过呢？」
+ 3.3.2.3鉴定从请求对方行动到行动时间的确认  「小李，能不能借我500元钱？」
+「小李，现在能不能借我500元钱？」
+ 3.4更加巧妙地封闭式问题 3.4.1强有力的二选一问题  「宝宝，现在去睡觉好不好？」
+「宝宝，要睡觉了哦，你想让爸爸给你讲故事，还是妈妈？」
+ 3.4.2转换角度的封闭式提问 除了回答「是」和「不是」之外，其实很多人的已经是「无所谓」。
+ 「我喜欢你，我想问一下，你喜欢我吗？」
+「我们接触三个月了，我喜欢你，你不会对我一点感觉都没有吧？」
+ 3.5让开放式问题更聚焦 不要太空泛四个要点：
+ 引导具体细节的提问。 引导对比的提问。 假设性提问。 事先排除干扰答案的提问。  3.5.1引导具体细节的提问  记者：「小组预赛对你来说真像一场决赛一样，对吗？」
+改进：「对于这场重要的奥运小组赛，你之前做了什么样的准备？」
+改进：「比赛之前，你和教练对于这场比赛有什么安排？」
+ 因为细节往往是非常具体的，所以问题聚焦后更容易回答。
+ 原句：「对于这个项目，张总，贵公司有什么需求？」
+改进：「张总，这个项目一开始是谁先提起来的呢？」
+改进：「通过这个项目，张总，你最期望解决贵公司的什么问题呢？」
+ 对于一个大的问题，进行拆解细分，组织起一套的问题结构
+3.5.2引导对比的提问  记者：「今天进入决赛后，是不是就完全放开了？」
+改进：「你觉得今天的决赛和预赛相比，比赛感觉有什么不同？」
+改进：「今天你拿到了铜牌，这和你之前奥运会拿到的金牌相比，你的心情有什么不同吗？」
+ 设置对比，减轻问题回答者的思考压力
+3.5.3假设性提问  记者：「你今天是怎么了？是没睡醒吗？」
+改进：「如果今天的比赛可以重来，你会做出什么样的调整吗？」
+ 给出假设，让问题回答者快速找到参照物，和回答角度
+3.5.4事先排除干扰答案的提问 e.g.1
+ 记者：「有没有觉得这届奥运会有点儿小遗憾？」
+改进：「其实我知道这次能拿到第四名已经很不容易了，你现在是什么心情？」
+ e.g.2
+ 「张总最近在忙什么呢？」
+改进：「张总，好久没看到你打球了，也不出来喝酒了，你最近忙什么呢？」
+ e.g.3
+ 原句:「宝宝，今天在幼儿园怎么样啊？」
+改进：「宝宝，这段时间你们幼儿园学的歌叫什么名字啊？我有点忘了。」
+ 3.6如何用提问收集敏感信息 3.6.1利用参照物进行间接性提问  与时间相关的参照物。 指代物或代替物。 类似事件或案例。   「先生，您是想看看国产品牌还是进口品牌呢？」
+「先生，您家客厅大约多大，我看看什么尺寸适合您？」
+ 3.6.2针对过往行为进行间接性提问  「先生，您之前买过什么样的理财产品呢？」
+「小姐，您之前买过国债类的产品吗？」
+ 3.7如果问「为什么」的问题 勤问自己「为什么」是中良好的思维习惯，但如果拿「为什么」去直接询问别人，则未必是个好问题，可能会让对方尴尬。
+3.7.1调整「为什么」问题的提问焦点  原句：「你上个月的营销指标为什么没完成？」
+改进：「你觉得上个月的营销工作有什么需要改进的地方？」
+改进：「下个月你打算如何改进工作来提高销售业绩？」
+ 找到问「为什么」真正的真正目的。 上面的例子中，想通过「为什么」的提问来让对方意识到问题，座椅针对真实目的进行问题优化。
+3.7.2用「为什么」来了解对方的动机  原句：「张总，你们公司为什么要组织这个培训？」
+改进：「是什么时候有这样的想法的？」
+改进：「你希望达到什么样的期望或目标？」
+改进：「这么做，有什么原因吗？」
+ 第二个例子：
+ 「您现在用的这款手机我看也挺新的啊，是什么原因让你考虑换部手机呢？」
+ 4设计强有力的问题 4.1投射提问法 4.1.1更改评价主体，让回答更轻松  原句：「你觉得你们部门新来的主管怎么样？」改进：「你的同事现在是如何评价你们部门的新主管的？」
+ 4.1.2更改实践主题消除尖锐感  原句：「你上月发了多少元奖金？」改进：「你的同事上个月的奖金大概有多少啊？」 4.2上堆下切的的魔力提问 上堆（chunk-up）：指为了营造与对方一致的气氛，用含义更广的词语去暗示对方有共同点，从而建立相对信任的感觉。下切（chunk-down）：是弄清楚对方话语的意思，或者在说过的内容里面把焦点调小，把其中的部分放大，和对方就具体的细节、行为、分解进行沟通。平推（parallel）：是指引导对方注意到用相同意义的其他理解，找出在同一层次的其他选择，简单来说就是帮助对方寻找其他选择或代替方案。</content>
+    </entry>
+    
+     <entry>
+        <title>阿里成才计划</title>
+        <url>https://blog.sbat.top/post/2019-11-17t2220/</url>
+        <categories>
+          <category>@未分类</category>
+        </categories>
+        <tags>
+          <tag>未分类</tag>
+        </tags>
+        <content type="html"> 厂货通引流技巧 自然排名的位置   1688搜索排名底层设计原理 - 自然排名   BSR评分   商品力   支付买家数=访客数*转化率访客数优化方向：报名大促销活动、付费推广、优化标题、优化主图转化率优化方向：定金、详情、折扣营销、售后保障、客服、发货&amp;hellip; 商品力的核心影响因素      买家服务能力（仅针对工业市场）     </content>
+    </entry>
+    
+     <entry>
+        <title>emacs中预览公式折腾记</title>
+        <url>https://blog.sbat.top/post/2019-10-25t1136/</url>
+        <categories>
+          <category>@emacs</category>
+        </categories>
+        <tags>
+          <tag>latex</tag>
+        </tags>
+        <content type="html"> 概述  It is bound to M-RET T x, M-m m T x, C-c C-x C-l, and many ordinary text characters.
+ 预览流程大致如下，先将公式用 latex 转为 dvi 格式，然后在用程序转化为 emacs 支持的图像文件，然后嵌入 org-mode 中。
+其中，变量 org-preview-latex-process-alist 是定义处理以上步骤的流程，是个 list ，也就是说，可以添加多个处理预览图像的流程。如下所示：
+(setq org-preview-latex-process-alist &amp;#39;( (dvipng :programs (&amp;#34;latex&amp;#34; &amp;#34;dvipng&amp;#34;) :description &amp;#34;dvi &amp;gt; png&amp;#34; :message &amp;#34;you need to install programs: latex, dvipng and ghostscript.&amp;#34; :image-input-type &amp;#34;dvi&amp;#34; :image-output-type &amp;#34;png&amp;#34; :image-size-adjust (1.0 . 1.0) :latex-compiler (&amp;#34;latex -interaction nonstopmode -output-directory %o %f&amp;#34;) :image-converter (&amp;#34;dvipng -fg %F -bg %B -D %D -T tight -o %O %f&amp;#34;)) (dvisvgm :programs (&amp;#34;xelatex&amp;#34; &amp;#34;dvisvgm&amp;#34; &amp;#34;convert&amp;#34;) :description &amp;#34;xdv &amp;gt; svg&amp;#34; :message &amp;#34;you need to install the programs: xelatex and dvisvgm.&amp;#34; :use-xcolor t :image-input-type &amp;#34;xdv&amp;#34; :image-output-type &amp;#34;svg&amp;#34; ;; :image-output-type &amp;#34;png&amp;#34; :imfage-size-adjust (1.7 . 1.5) ;; :latex-header ;; &amp;#34;\\usepackage[UTF8]{ctex}&amp;#34; :latex-compiler (&amp;#34;xelatex -no-pdf -interaction nonstopmode -output-directory %o %f&amp;#34;) :image-converter (&amp;#34;dvisvgm %f -n -b min -c %S -o %O&amp;#34;)) (imagemagick :programs (&amp;#34;xelatex&amp;#34; &amp;#34;convert&amp;#34;) :description &amp;#34;pdf &amp;gt; png&amp;#34; :message &amp;#34;you need to install the programs: xelatex and imagemagick.&amp;#34; :use-xcolor t :image-input-type &amp;#34;pdf&amp;#34; :image-output-type &amp;#34;png&amp;#34; :image-size-adjust (1.0 . 1.0) :latex-compiler (&amp;#34;xelatex -interaction nonstopmode -output-directory %o %f&amp;#34;) :image-converter (&amp;#34;convert -density %D -trim -antialias %f -quality 100 %O&amp;#34;)))) 预览命令的绑定上面的程序中，定义了 3 个程序，分别为 dvipng 、 dvisvgm 、imagemagick
+上面程序可以使用 org-preview-latex-default-process 调用，设置默认的预览程序。
+(setq org-preview-latex-default-process &amp;#39;dvipng) 其中如何定义程序，在文档中有解释，不在赘述。
+org中使用数学公式 官方教程讲的挺好 The Org Manual: LaTeX fragments
+</content>
+    </entry>
+    
+     <entry>
+        <title>2018-2019学习成果总结</title>
+        <url>https://blog.sbat.top/post/2019-10-15t1455/</url>
+        <categories>
+          <category>@职业规划</category>
+        </categories>
+        <tags>
+          <tag>年度总结</tag>
+        </tags>
+        <content type="html"> 概述 2018-09-15 至 2019-10-15
+共计 395 天。
+在这一年多的时间中，我个人，在思想、技能方面有着巨大的改变、与提升。
+提升幅度，可以说是从无到有，也算比较大。
+下面分别以技能和思想两个维度，盘点一下所学所得。
+技能 技能也分为多种，我将其粗略分为 基础技能 、 工作效率技能 、 专业技能 。
+我是花了很多时间在基础学习和工具学习了，Python的学习还行，但是数据分析就不济了。
+效率工具和学习工具也折腾的差不多了，现在就注重专业能力的提升。
+基础技能 英语 英语的学习时间也比较短，从任性的一点英语都不学，考试全靠猜，到现在自我感觉已经提升非常之大了。只有自己才知道是一种怎样的感觉。
+ 音标  其实我初高中，一直都知道英语很重要，一定是要学的。但万事总得有个头吧？那就是音标，但是吧，初中没有老师给我教音标，当时网上教学资源也不发达，也没有老师带。高中后，教育资源是有了，但像手机电脑这种东西，那就是禁品！根本没法在学校用，肯定是没希望。所以因为音标没学，后面学习英语诸事不顺，索性就不学了。（都是为不学英语找的借口，赤裸裸的借口！）在初中三年中，在初二和老师达成了「协议」—— 不学英语，不交作业，上课不捣蛋就行。在中考中，以英语29的成绩成功进入了高中学习。我这个人，任何事情，都是按照自己的想法来的。那么在高中，也和老师达成了该协议，当然，皮肉之苦免不了————最后老师没辙，就撒手放归大自然了....高考，也无巧不巧的考了29分（这可能就是缘分）。来到了经贸，这下有电脑了，终于可以通过互联网学习了！就开始跟着赖世雄学音标，过程一切顺利。（没有借口了....)  词汇  测试词汇量大小 `2900` （仅仅认识的单词）。  准不准我就不知道了，我的Anki词库反正是3000&#43; 的单词，有诸多的计算机专业词汇，还有一些领域的术语。我所有背过的单词，在我的Anki中都有记录。就拿朗文高频词3000来说。  在单词背诵上面，耗费了345个小时，约等于14天，这345个小时，是真正的背诵（记忆）时间。从这个单词词库到现在合计252天，坚持背诵248天，平均到每天约有83.7分钟在背单词。资质不佳，记忆力也差，有些单词也就只能一遍一遍反复背了。不过，效果是喜人的。目前，大部分常见单词也都能知道意思，学习语法的时候，也感觉轻快了许多，至少能学下去了。单词嘛，现在就是要进一步的掌握了，之前是认识它，现在要慢慢的去使用它。什么东西都不是一蹴而就的，必须经过长年累月的积累。最害怕的，不是走的慢，而是停滞不前，游移不定。不要因为不知道方向是什么而停下自己的脚步，四处观望。```nil这里简单的说一下，我记单词只是我认识它，知道意思就算背完。当然，有一些非常常见的单词，看的多了，也就记住了。但绝大部分单词，我只能看见认识，知道一两个意思而已。```现在又找了一个词库，是麦克米伦6000高频词，每天20个，这6000词当然和之前的朗文3000的词汇有所重叠，记得比较熟的，直接删除，不熟悉的，那就在背一遍。这个词库，就当是持久攻坚战吧。慢慢来，不急，人生就像一场马拉松。  语法  语法我是在这个暑假才开始接触的，也就是6月28号。我首先收集了大量的学习资料，主要就是音频、音频、和书籍。音频主要就是赖世雄经典语法（赖世雄的声音非常有磁性！！）。收集了不少资料，假期的时候，挑了些重点，全部都听了过来，也把笔记也放在了Anki中，时刻复习。  赖世雄，应该说是把我领进门了，听了他的课，让我知道的句子的结构，知道了英语的五大句型。原本一个句子根本看不懂，现在能看懂个一二三了。在配合着英语语法著作，如，张道真、张满胜、旋元佑等等等。  语法体系框架逐步搭建起来。只是框架而已，具体的细节，那要花费很长很长时间去掌握的。现在呢，跟着新概念二册的田静老师，踏踏实实的借助文章，把语法梳理过一遍，查缺补漏。现在学起来比较轻松了，英语语法知识体系框架已有点概念，所以老师所讲的知识，只需放在知识框架中就好，相对容易些。  二册共96课，每天一课，预计在期末结束后就可以学习完毕。 数学 数学也是个坑，一个文科生，又是体育生，能好哪去。目前没怎么碰数学，只是在去年寒假的时候，因为统计学挂科，在家补习了理科的数理统计和排列组合，数学略过。计划在下一学期学习。
+工作效率技能 我始终坚信： 生产工具决定生产效率
+让我感触最深的例子是：用镰刀割麦子和用自动收割机的效率是远远不能比的。（我家今年就使用自动收割机收割的）
+传统收割麦子流程：先是割下来，用麦子茎秆捆好，在用拖拉机将一捆捆的麦子拉到一片空地，然后将其全部解捆，摊开，用拖拉机拉着铁制的圆柱形实心滚筒，一遍又一遍的在麦穗上压，直到麦穗全部压下来为止，最后一个步骤是找个有风的时候，用铁铲将麦穗抛在空中，使麦子和穗子分离，随风飘扬的就是穗子，没有被风吹走的，就是麦子了，打包装袋。
+预计耗时：至少半个月。
+现在的流程：自动收割机，全部走一遍，出来的是干净的麦子，和成捆的麦子茎秆。
+预计耗时：几个小时。
+？？？有可比性吗？
+所以，掌握学习工具和生产工具可大大提高学习效率。
+我一直把自己当做的是一个程序员，一些高效的工具也就深深的吸引着我。
+下面的各个项目就比较混乱了，不好整理，见谅见谅。
+VIM 是一个上古时代的文本编辑器，学了很长时间，现在常用操作已经熟练。学习后，各种操作也十分顺畅。
+Emacs 也是一个上古时代的文本编辑器，不！它是伪装成编辑器的操作系统！我学习了Spacemacs，主要用于agenda（日程管理）和org-mode（记笔记）。
+Markdown 这是一个轻量的标记语言，能方便的写出一个漂亮的笔记，比Word简介，稳定。该文档就是用 org-mode 转换成 Markdown 后在转 HTML 呈现出来的。
+有个比较好的 Markdown 的笔记工具， vnote 推荐使用。
+命令行 命令行种类很多，也就两三种吧，在 windows 下的 cmd powershell ， Linux 下的 bash
+我有个服务器，挂了 ngrok ，和几个测试网站。
+Listary 离不开的搜索文件、打开程序的工具，十分有用。
+Capslock&#43; 快捷键系统，推荐使用。 Capslock&#43;
+Total Command 一个文件管理工具，各方面表现优异。
+Surfkeyings 键盘操作网页的工具。比较实用，是用Vim的键盘方式操作的，比较简单。
+Anki 这是一切学习的核心，学习重在重复。下面是介绍Anki的文章。
+Anki是什么，该怎么用？ - 知乎
+熟练了windows快捷键 必备技能吧~
+双拼输入法 谁能通俗点解释下什么是双拼吗？ - 知乎
+专业技能 我不知的我到底应该走软件还是数据分析专业。反正都学了点，哎~
+Python Python是比较简单的，也用他做了几个小项目。
+这一年中是从0到中级吧。
+R 专业数据分析的语言，近一个月才开始学，有Python语言基础后，R语言入手比较容易。
+即使这样，也碰了不少墙。
+Linux 熟悉了Linux系统的基本操作，防火墙的配置，文件操作，安装各类服务等等。
+思想 很多东西都在技能里面说了。
+之后再更&amp;hellip;
+</content>
+    </entry>
+    
+     <entry>
+        <title>在Visual Studio Code下的R语言配置</title>
+        <url>https://blog.sbat.top/post/2019-09-23t2359/</url>
+        <categories>
+          <category>@工具配置</category><category>@Vscode</category><category>@R</category>
+        </categories>
+        <tags>
+          <tag>R</tag>
+        </tags>
+        <content type="html"> 简介 受不了R语言自带的控制台，便想着用现在最为流行的VsCode来配置一下R语言。
+安装R语言插件 R support for Visual Studio Code 在商店中直接搜索R就可以了，如图所示。
+  R LSP Client 在商店中搜索该插件名称即可。
+有了这个它就可以进行代码补全、查看函数定义以及参数预览了。不过想让它生效还需要下面几个小步骤：
+在 R 中安装 languageserver 包打开R控制台，使用下面的命令：
+install.packages(&amp;quot;languageserver&amp;quot;)
+只有安装了这个包才能实现 R 和 编辑器的同步。
+ 如果安装失败，提示 在此連線階段时请选用CRAN的鏡子 ---Warning: 无法在貯藏處 类似的东西，多换几个镜像就好了。
+ R语言的配置 在VsCode中按下 Ctrl&#43;Shift&#43;P ，搜索 setting json 打开，在最后一句后面添加粘贴下面代码。路径自行替换,路径地址可以在 cmd 中使用where radian查询。
+&amp;#34;r.rterm.windows&amp;#34;: &amp;#34;C:\\tools\\Anaconda3\\Scripts\\radian.exe&amp;#34;, &amp;#34;r.lsp.path&amp;#34;: &amp;#34;C:\\Program Files\\R\\R-3.6.1\\bin\\R.exe&amp;#34;, &amp;#34;r.rterm.option&amp;#34;: [ // &amp;#34;--no-save&amp;#34;, // &amp;#34;--no-restore&amp;#34;, &amp;#34;--no-site-file&amp;#34; 试验 重启后Vscode后，使用下面的代码测试是否配置成功。
+x &amp;lt;- 1:5 y &amp;lt;- 5:1 # 生成25个点的网格数据 xy &amp;lt;- expand.grid(y=y,x=x) # 画25种pch plot(xy$x-6,xy$y,pch=1:25,col=&amp;#34;red&amp;#34;,cex=2, xlim=c(-5.5,6),ylim=c(-7,6), # 指定坐标轴范围 ann=F,axes=F) # 这两个参数去掉原有边框 text(3-6,12,&amp;#34;points pch=&amp;#34;) text(xy$x&#43;0.4-6,xy$y,as.character(1:25)) # 画6种lty for(i in 1:6){ lines(1:5-6,rep(i*5/6,5)-7,lty=i,col=&amp;#34;red&amp;#34;,lwd=2) } text(3-6,6-7,&amp;#34;lines lty=&amp;#34;) text(rep(5.35,6)-6,1:6*5/6-7,as.character(1:6)) # 画8种type a &amp;lt;- 1:3 b &amp;lt;- -(1:3/4) typen &amp;lt;- c(&amp;#34;h&amp;#34;,&amp;#34;p&amp;#34;,&amp;#34;l&amp;#34;,&amp;#34;b&amp;#34;,&amp;#34;o&amp;#34;,&amp;#34;S&amp;#34;,&amp;#34;s&amp;#34;,&amp;#34;n&amp;#34;) # n指不画线 for(i in 1:length(typen)){ points(a,b-0.8*i,type=typen[i],col=i&#43;1) text(0.5,-0.2-0.8*i,typen[i],col=i&#43;1) } # 画通过原点的坐标轴 axis(1,c(-5,0,6),pos=0, # 确定轴的坐标为0 col.ticks = &amp;#34;transparent&amp;#34;,col=&amp;#34;grey&amp;#34;,col.axis=&amp;#34;grey&amp;#34;, hadj=-1,padj=-1.5) # 调整刻度名与轴之间的距离 axis(2,c(-7,0,6),pos=0, col.ticks = &amp;#34;transparent&amp;#34;,col=&amp;#34;grey&amp;#34;,col.axis=&amp;#34;grey&amp;#34;, hadj=1,padj=1.5) # 画各种图形 segments(0.5,5,2.5,5,col=2) # 指定首尾坐标 text(6,5,&amp;#34;segments(1,5,3,5)&amp;#34;,adj=1) # adj=1则文字最左端对应前面指定的坐标 arrows(0.5,4,2.5,4,col=3) text(6,4,&amp;#34;arrows(1,5,3,5)&amp;#34;,adj=1) rect(0.5,2.7,2.5,3.3,col=&amp;#34;transparent&amp;#34;,border=4) # 颜色可以设为无色 text(6,3,&amp;#34;rect(0.5,2.7,2.5,3.3)&amp;#34;,adj=1) polygon(c(0.5,2.5,2.5,0.5),c(1.6,1.6,2.4,2.4), # 自动封闭填充颜色 col=&amp;#34;grey&amp;#34;,border=5) # 画多边形 text(6,2,&amp;#34;polygon&amp;#34;,adj=1) legend(&amp;#34;bottomright&amp;#34;,c(&amp;#34;segments&amp;#34;,&amp;#34;arrows&amp;#34;,&amp;#34;rect&amp;#34;,&amp;#34;polygon&amp;#34;), text.col=2:5,lty=1,pch=16,col=2:5,bg=&amp;#34;grey&amp;#34;,title=&amp;#34;legend&amp;#34;) 效果如图：
+  快捷键 选中执行是 ctrl &#43; Enter
+执行文件是 ctrl &#43; Shift &#43; s 或者点击右上角的小图标
+  参考文献 VSCode 愉快地使用 R - 知乎
+VS Code中使用R语言扩展的相关配置 - NEUSNCP
+R语言绘图、高清保存、以及颜色系统 - 打不死的小强 - CSDN博客
+</content>
+    </entry>
+    
+     <entry>
+        <title>centos7的防火墙开放端口</title>
+        <url>https://blog.sbat.top/post/2019-09-13t2157/</url>
+        <categories>
+          <category>@Linux</category>
+        </categories>
+        <tags>
+          <tag>Centos7</tag><tag>firewall</tag>
+        </tags>
+        <content type="html"> 转自： https://blog.csdn.net/qq%5F24232123/article/details/79781527
+1. 查看已打开的端口 # netstat -anp 2. 查看想开的端口是否已开 # firewall-cmd --query-port=666/tcp 若此提示 FirewallD is not running 表示为不可知的防火墙 需要查看状态并开启防火墙 3. 查看防火墙状态 # systemctl status firewalld running 状态即防火墙已经开启 dead 状态即防火墙未开启 4. 开启防火墙，# systemctl start firewalld 没有任何提示即开启成功 5. 开启防火墙 # service firewalld start 关闭防火墙 # systemctl stop firewalld centos7.3 上述方式可能无法开启，可以先#systemctl unmask firewalld.service 然后 # systemctl start firewalld.service 6. 查看想开的端口是否已开 # firewall-cmd --query-port=666/tcp 提示no表示未开 7. 开永久端口号 firewall-cmd --add-port=666/tcp --permanent 提示 success 表示成功 8. 重新载入配置 # firewall-cmd --reload 比如添加规则之后，需要执行此命令 9. 再次查看想开的端口是否已开 # firewall-cmd --query-port=666/tcp 提示yes表示成功 10. 若移除端口 # firewall-cmd --permanent --remove-port=666/tcp 11. 修改iptables 有些版本需要安装iptables-services # yum install iptables-services 然后修改进目录 /etc/sysconfig/iptables 修改内容 </content>
+    </entry>
+    
+     <entry>
+        <title>使用ngrok内网穿透，使用远程桌面（在centos7下）</title>
+        <url>https://blog.sbat.top/post/2019-09-13t2139/</url>
+        <categories>
+          <category>@Linux</category>
+        </categories>
+        <tags>
+          <tag>centos7</tag><tag>服务器</tag>
+        </tags>
+        <content type="html"> 准备域名 A记录解析到 *.ngork ， ngork
+搭建ngrok服务器 1、安装GNU编译器套件、git（用于下载Ngrok源码）、以及GO语言环境
+yum install gcc -y yum install git -y yum install -y mercurial git bzr subversion golang golang-pkg-windows-amd64 golang-pkg-windows-386 2、下载ngrok源码。如：下载到opt目录下，则进入到opt文件夹然后执行以下命令
+cd /usr/local/ git clone https://github.com/inconshreveable/ngrok.git 3、进入到ngrok文件夹并生成证书。
+export ngrok_domain=“xxx.com”这里为自己购买的域名地址
+cd ngrok export NGROK_DOMAIN=&amp;#34;xxx.com&amp;#34; openssl genrsa -out rootCA.key 2048 openssl req -x509 -new -nodes -key rootCA.key -subj &amp;#34;/CN=$NGROK_DOMAIN&amp;#34; -days 5000 -out rootCA.pem openssl genrsa -out device.key 2048 openssl req -new -key device.key -subj &amp;#34;/CN=$NGROK_DOMAIN&amp;#34; -out device.csr openssl x509 -req -in device.csr -CA rootCA.pem -CAkey rootCA.key -CAcreateserial -out device.crt -days 5000 4、将生成的证书拷贝到相应目录下替换,记住不要少了前面的斜杠。不然复制一个就会提示是否覆盖。
+\cp -rf rootCA.pem assets/client/tls/ngrokroot.crt \cp -rf device.crt assets/server/tls/snakeoil.crt \cp -rf device.key assets/server/tls/snakeoil.key 5、编译生成ngrok服务器
+GOOS=linux GOARCH=amd64 make release-server 搭建教程：https://blog.csdn.net/liushimiao0104/article/details/83025680 https://www.vediotalk.com/?p=58 自启教程：https://free-e.net/115
+</content>
+    </entry>
+    
+     <entry>
+        <title>官方隐藏功能，电脑性能提升百分之十（win10）</title>
+        <url>https://blog.sbat.top/post/2019-09-09t2112/</url>
+        <categories>
+          <category>@Computer</category><category>System</category>
+        </categories>
+        <tags>
+          <tag>win10</tag><tag>系统优化</tag>
+        </tags>
+        <content type="html"> 组合键 win&#43;x 然后在按 a 输入以下内容
+powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61   然后在电源管理中可以看到，中文叫做（卓越模式）
+  </content>
+    </entry>
+    
+     <entry>
+        <title>小商同学 1.1</title>
+        <url>https://blog.sbat.top/post/2019-08-30t0959/</url>
+        <categories>
+          <category>@工具</category><category>@原创</category>
+        </categories>
+        <tags>
+          <tag>Python</tag><tag>机器人</tag>
+        </tags>
+        <content type="html"> 简介 主要用于班委的信息收集，学校有各种各样的信息需要收集。
+本可以搞一个信息收集平台就可以解决诸多的问题。
+实时更新的。
+实在想吐槽吐槽晚自习，9102 年了，用电脑学习效率更高好嘛。。。
+快速开始 如果你是 班级成员 ，你只需要知道一个命令就可以啦
+2 消息
+上述命令中的消息可以随意替换，如果是公假信息，可以变为
+2 学习部公假
+如果是统计性别年龄，可以是
+2 男 18
+如果你是 班级管理员并且想用该功能 ，请按照下面的步骤来~
+准备工作 首先需要准备以下内容:
+ 班级同学必须在班级群内 群名片格式必须为 [学号] [姓名] , 例如 01 张三 必须有个班级id ,以可以方便辨认为原则, 如 swsj_181 将你的 班级id, 管理员QQ, 班级群号 发送给超级管理员.  另外，腾讯的原因，初次使用小商同学无法直接给好友发送消息，需要让主动加小商好友并发送一条消息，这样小商同学和好友直接就建立起沟通的桥梁啦。
+例子 班级同学发送 2 学习部公假
+管理员可以通过 统计 查看 ,看到所有已经发送该消息的人员名单及信息.
+功能介绍 目前的小商同学只支持统计功能，和班级通知功能。
+当然还可以写更方便的功能，比如说定时发送提示信息，搞个课表，提醒在那个教室上课之类的。
+这些功能以后有时间再慢慢添加，精力有限。
+下面详细介绍了统计功能和班级通知功能。
+统计 有三种类型, 普通用户, 班级管理员, 超级管理员. 类型不同, 权限也不同.
+简单的说，普通用户就只是发送信息，是被统计的人群。班级管理员，也就查看班级的统计信息，以及添加管理员等等一些权限。
+普通用户  被统计命令  命令有:`2 学习部公假`以上的学习部公假可更换为任何消息. 2 后面的所有文字都会被记录.只有 **小商同学管理的班级中的同学** 才会被记录, 如果你的班级需要被记录管理, 请联系超级管理员.  查询课表功能  ```nil2019 年 9 月 13 日 01:38:11```命令有：`课表`只需要发送 `课表` 即可得到课表的链接。第一次使用需要添加你们班的课表到数据库，目前仅支持超级管理添加课表。 管理员  查看统计结果  命令有:1. `统计 查看`2. `统计 查看 剩余`3. `统计 查看 不排序`4. `统计 查看 剩余 不排序`5. `统计 查看 不排序 剩余`该命令是查看当前统计结果,默认情况下查看现在已经发送过统计信息的人.例如: 一位同学发送了 `2 学习部公假` , 那么执行该命令就可以看到该同学的信息.另外, 有两个可选参数, `剩余`, `不排序` .`剩余` 指的是 **没有发送统计信息的人** 这个命令在晚自习人没到齐且没发统计消息的时候十分有用.`不排序` 指的是 **不按照学号进行排序, 按照发送的时间排序, 也就是说, 第一个发送统计信息的人排在第一位, 第二个发送统计信息的人排在第二位, 不管其学号顺序**  添加管理员  命令有:1. `统计 添加管理员 管理员qq`示例命令：1. `统计 添加管理员 100000`_注意：被添加的管理员必须在班级群内_用于添加管理员信息, 可以使用 `查看统计结果` 命令.  重置统计  命令有:1. `统计 重置统计`当一个统计结束, 或者作废时, 可以将它重置, 也就是将当前已经统计的数据清空, 开始重新统计.  提示同学发送消息  命令有:1. `统计 提示`2. `统计 提示 提示语`当重置统计后, 可以使用该命令快速通知 **没有发送统计信息的同学** 发送消息, 以便快速完成统计. 发送的默认消息为:&amp;gt; 签到 若已到 拖拽右边的小红点忽略消息，如果到了有公假或者有事回复 &#39;2&#43;空格&#43;原因&#39;,&amp;gt; 例如&amp;gt; 2 学习部公假~~目前暂不支持自定义, 如想手动给全班发送消息. 请查看 `通知` 命令.~~&amp;lt;span class=&amp;quot;timestamp-wrapper&amp;quot;&amp;gt;&amp;lt;span class=&amp;quot;timestamp&amp;quot;&amp;gt;[2019-09-10 周二] &amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt; 更新：支持自定义提示消息，只需在提示后面跟提示语就可以啦~  重置班级人员命令  命令有:1. `统计 重置 班级群号`示例命令：1. `统计 重置 32131331`如果在添加班级时, 有些同学没有被 `小商` 收录, 那么把群命令更改正确之后, 会重新获取班级信息.   TODO定时发送消息并重置&amp;hellip;
+  TODO&amp;hellip;
+  超级管理员&amp;hellip; 超级管理员权限当然比较高，拥有添加班级，查看班级统计结果的权限。发送通知和其他命令暂时不支持。主要是方便班助，或者年级统计人员查看统计信息。
+ 添加新的班级到小商同学  命令有：1. `统计 创建 班级id 班级管理员QQ 群号`**班级 id** ： 指的是班级的英文名称，必须使用专业名称前 2-4 字母再加上班级，如 `swsj_181` ， `rj_181` `dzsw_181` etc...**班级管理员 QQ** ： 指的是班级班委的 QQ 号，任意一人就好，后续可参考 `统计添加管理员` 命令自行添加其他管理员。**群号** ： 你们班级的 QQ 群完整命令示例如下：`统计 创建 rj_181 110000 100000` 通知 通知功能也很简单，用小商同学给班里的人发送消息。
+给全部同学发送消息 命令有:
+ 通知 [消息内容]  例如:
+通知 今天晚上晚自习取消哈
+该命令会给班级所有人发送这条消息.
+使用技巧：该命令可以和统计命令的配合使用，重置统计后，可以使用该命令提示统计的内容。 例如： 通知 参加周六聚会的发 2，不参加的不用发 然后同学们纷纷发 2。
+若有人发统计信息不及时，也可以使用该命令提示。
+</content>
+    </entry>
+    
+     <entry>
+        <title>反本能读书笔记</title>
+        <url>https://blog.sbat.top/post/2019-08-18t0027/</url>
+        <categories>
+          <category>@读书笔记</category><category>@心里学</category>
+        </categories>
+        <tags>
+          <tag>思维方式</tag><tag>舒适区</tag>
+        </tags>
+        <content type="html"> 摘抄  当你每次产生一个想法时, 带有这个想法的神经通路中的生化电磁阻力就会减少一些, 就像在丛林里清出一条小路一样,一开始非常费劲, 但随着你经过这条路的次数增加, 这条路也就会开辟得越来越彻底, 你所遇到的阻力也会慢慢变小. 到最后, 这条小路会变得平坦而宽敞.
+  我们兼职要在信息的海洋中淹死, 但终因缺乏知识而饿死.
+  当自己的知识输入量和状态量技术达到一定程度时, 体系甚至可以自发形成, 产生输出量.
+  知识的有效性取决于它能带给我们多少确定性,让我们对事物有更多的了解.
+  当一个人开始自我表露时, 便是信任关系建立的开始; 而对方以同样的自我表露水平作出反馈, 也是一种表示对方接受信任的标志.
+  当对方在工作上有些失误或不足时,我们对其提出改进的意见时, 可以先指出对方做得不足的地方, 随后在赞美他做得好的地方, 对方就不容易产生 &amp;ldquo;相对剥夺&amp;rdquo; 的感受了, 也更容易接受我们的建议.
+  任何人都会生气, 这也很简单, 但是在正确的时间, 正确的场合, 用正确的分户陈表达愤怒, 这可不简单. &amp;ndash;亚里士多德
+  当我们开会在争吵时, 别人之所以愿意听我的建议, 是因为我说话非常小声, 别人总是不得不停下争论问一句: 他刚说什么了? &amp;ndash;孟非
+  子非鱼安知鱼之乐 : 是出自惠子的一句话，被记录在《庄子.秋水》中。说明了不要总是以自己的眼光去看待他人，也有“己所不欲，勿施于人”的意味在其中。
+  对方帮助我们的同时, 会产生对我们更多的 &amp;ldquo;弱者关怀&amp;rdquo;, 以后也可能帮助你. 想让两个互相讨厌的人减少敌意, 有效的办法是让他们必须协作完成一个任务并且成功.
+  在经济学上, 追求极致的代价, 可能最后 1%做需要的成本回事前面看 99%的总和. 也就是追求极致的代价是极致成本.
+  万善孝为先，论心不论行；万恶淫为首，论行不论心.
+论行不论心, 论心无好人
+  一个程序员, 如果缺乏足够的市场营销知识, 他在编写代码的时候就会往间接性和利用率的角度考虑问题, 而不是市场需求. 只有跳出自己的专业思维倾向, 才能提高看待问题的高度, 也能看到更多层面的问题.
+ 分类1 首因效应(primacyeffect) : 也称第一印象效应.
+滞后效应(hysteresis effect) : 效益的滞后性, 在管理心理学中，由于决策、管理诸因素滞后于形势发展的重要而产生不良后果的现象，被人们称之为滞后效应。
+感觉适应(sensory adaptation) :感觉适应（sensory adaptation）是指刺激物对同一感受器持续作用，使感觉阈限发生变化，导致对后来的刺激物的感受性提高或降低的现象。各种感觉都有适应现象，如视觉适应（分暗适应和明适应）、听觉适应（分选择性适应、寂静适应和噪音适应）、 皮肤觉适应、嗅觉适应和味觉适应等，唯痛觉很难适应。上述类型中除暗适应是感受性提高外，其余各种适应都表明感受性降低甚至消失。此外，各种感觉适应的速度不同，如完全的暗适应需 45 分钟，明适应只需数分钟，听觉适应约需 15 分钟。
+社会助长作用(social fac ilitation) : 社会助长作用(social fac ilitation)又称社会促进现象，是指当他人在场或与他人一起活动时，个体行为效率有提高的倾向。奥尔波特认为产生社会助长作用的原因有这样几方面:
+ 多数人在一起活动、增强了个人被他人评价的意识，从而提高了个人的兴奋水平; 与他人一起活动，增加了相互模仿的机会和竞争的动机; 减少了单调的感觉和由于孤独造成的心理疲劳。  一氧化二氮(nitrous oxide) : 又称笑气，无色有甜味气体，是一种氧化剂，在一定条件下能支持燃烧（同氧气，因为笑气在高温下能分解成氮气和氧气），但在室温下稳定，有轻微麻醉作用，并能致人发笑。其麻醉作用于 1799 年由英国化学家汉弗莱·戴维发现。
+过度学习 : 又称为“过度识记”，是教育心理学上的术语，是指达到一次完全正确再现后仍继续识记的记忆。过度学习有利于识记材料的保持，但是也要明白“过犹不及”的道理。过度学习理论是由德国著名的心理学家 H·艾宾浩斯提出的，主要含义是一个人要掌握所学的知识，一定要经常提醒自己通过反复练习，才能得到巩固。艾宾浩斯对这一效应作了最早的实验研究。过度学习效应一般发生在识记学习和辨别学习中。艾宾浩斯的“过度学习”实际上是“适度紧张学习”。
+纯粹接触效应(mere exposure effect) 它表明某一外在刺激，仅仅因为呈现的次数越频繁（使个体能够接触到该刺激的机会越多），个体对该刺激将越喜欢。
+相对剥夺(Relative Deprivation) : 最早由美国学者 S．A．斯托弗（S．A．Stouffer）提出，其后经 R．K．默顿（R．K．Merton）的发展，成为了一种关于群体行为的理论。它是指当人们将自己的处境与某种标准或某种参照物相比较而发现自己处于劣势时所产生的受剥夺感，这种感觉会产生消极情绪，可以表现为愤怒、怨恨或不满。简单而言，相对剥夺是一种感觉，这感觉是我们有权享有但并不拥有。例如，某人看着邻居家买了一辆新车，他认为他也能有这辆车。但实际他并不拥有。
+马斯洛需求层次理论 : 由低到高分别是: 生理需要, 安全需要, 社会需要, 总重需要, 和自我实现需要.
+隧道视野效应 : 一个人若身处隧道，無法看到隧道以外的路徑.
+幸存者偏差(Survivorship bias) : 是一种常见的逻辑谬误（“谬误”而不是“偏差”）。指的是只能看到经过某种筛选而产生的结果，而没有意识到筛选的过程，因此忽略了被筛选掉的关键信息。在“沉默的数据”、“死人不会说话”等等日常表达中，涉及幸存者偏差。
+沉没成本 : 是指已发生或承诺、无法回收的成本支出，如因失误造成的不可收回的投资。沉没成本是一种历史成本，对现有决策而言是不可控成本，不会影响当前行为或未来决策。从这个意义上说，在投资决策时理性的决策者应排除沉没成本的干扰。
+</content>
+    </entry>
+    
+</search>

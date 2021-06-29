@@ -1,0 +1,447 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /> 
+    <title>在Visual Studio Code下的R语言配置 - 一品书生</title>
+    <meta name="keywords" content="一品书生,独立,博客,程序员,数据分析师,个人,思考,读书,笔记,技术,分享,管理">
+    
+    <meta property="og:title" content="在Visual Studio Code下的R语言配置">
+    <meta property="og:site_name" content="一品书生">
+    <meta property="og:image" content="/img/author.jpg"> 
+    <meta name="title" content="在Visual Studio Code下的R语言配置 - 一品书生" />
+    <meta name="description" content="一品书生 | 博客 | 高效工作 | Python"> 
+    <link rel="shortcut icon" href="https://blog.sbat.top/img/favicon.ico" />
+    <link rel="apple-touch-icon" href="https://blog.sbat.top/img/apple-touch-icon.png" />
+    <link rel="apple-touch-icon-precomposed" href="https://blog.sbat.top/img/apple-touch-icon.png" />
+    <link href="https://blog.sbat.top/js/vendor/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+    <link href="https://blog.sbat.top/js/vendor/fancybox/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+    <link href="https://blog.sbat.top/css/main.css" rel="stylesheet" type="text/css" />
+    <link href="https://blog.sbat.top/css/syntax.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" id="hexo.configuration">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post"},
+     fancybox: true, 
+    motion: true
+  };
+</script>
+</head>
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh-Hans">
+<div class="container one-collumn sidebar-position-left page-home  ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-meta  custom-logo ">
+
+  <div class="custom-logo-site-title">
+    <a href="https://blog.sbat.top/"  class="brand" rel="start">
+      <span class="logo-line-before"><i></i></span>
+      <span class="site-title">一品书生</span>
+      <span class="logo-line-after"><i></i></span>
+    </a>
+  </div>
+  <p class="site-subtitle">生产工具决定生产效率</p>
+</div>
+
+<div class="site-nav-toggle">
+  <button>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+    <span class="btn-bar"></span>
+  </button>
+</div>
+
+<nav class="site-nav">
+    <ul id="menu" class="menu">
+      
+      
+        <li class="menu-item ">
+          <a href="https://blog.sbat.top/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />首页
+          </a>
+        </li>
+      
+        <li class="menu-item ">
+          <a href="https://blog.sbat.top/post/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />归档
+          </a>
+        </li>
+      
+        <li class="menu-item ">
+          <a href="https://blog.sbat.top/about/" rel="section">
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />关于
+          </a>
+        </li>
+      
+      <li class="menu-item menu-item-search">
+        <a href="javascript:;" class="popup-trigger"> <i class="menu-item-icon fa fa-search fa-fw"></i> <br /> 搜索</a>
+      </li>
+    </ul>
+    <div class="site-search">
+      <div class="popup">
+ <span class="search-icon fa fa-search"></span>
+ <input type="text" id="local-search-input">
+ <div id="local-search-result"></div>
+ <span class="popup-btn-close">close</span>
+</div>
+
+    </div>
+</nav>
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+<section id="posts" class="posts-expand">
+  <article class="post post-type-normal " itemscope itemtype="http://schema.org/Article">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+        <a class="post-title-link" href="https://blog.sbat.top/post/2019-09-23t2359/" itemprop="url">
+        在Visual Studio Code下的R语言配置
+        </a>
+      </h1>
+      <div class="post-meta">
+      <span class="post-time">
+<span class="post-meta-item-icon">
+    <i class="fa fa-calendar-o"></i>
+</span>
+<span class="post-meta-item-text">时间：</span>
+<time itemprop="dateCreated" datetime="2016-03-22T13:04:35+08:00" content="2019-09-23">
+    2019-09-23
+</time>
+</span> 
+      
+
+  <span class="post-category" >
+  &nbsp; | &nbsp;
+  <span class="post-meta-item-icon">
+    <i class="fa fa-folder-o"></i>
+  </span>
+  <span class="post-meta-item-text">分类：</span>
+  
+    <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+      <a href="https://blog.sbat.top/categories/%E5%B7%A5%E5%85%B7%E9%85%8D%E7%BD%AE" itemprop="url" rel="index">
+        <span itemprop="name">@工具配置</span>
+      </a>
+      &nbsp; 
+    </span>
+  
+    <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+      <a href="https://blog.sbat.top/categories/vscode" itemprop="url" rel="index">
+        <span itemprop="name">@Vscode</span>
+      </a>
+      &nbsp; 
+    </span>
+  
+    <span itemprop="about" itemscope itemtype="https://schema.org/Thing">
+      <a href="https://blog.sbat.top/categories/r" itemprop="url" rel="index">
+        <span itemprop="name">@R</span>
+      </a>
+      &nbsp; 
+    </span>
+  
+</span>
+
+
+       <span>
+&nbsp; | &nbsp;
+<span class="post-meta-item-icon">
+    <i class="fa fa-eye"></i>
+</span>
+<span class="post-meta-item-text">阅读：</span>
+<span class="leancloud-visitors-count">655 字 ~2分钟</span>
+</span>
+      </div>
+    </header>
+    <div class="post-body" itemprop="articleBody">
+    <h2 id="简介">简介</h2>
+<p>受不了R语言自带的控制台，便想着用现在最为流行的VsCode来配置一下R语言。</p>
+<h2 id="安装r语言插件">安装R语言插件</h2>
+<h3 id="r-support-for-visual-studio-code">R support for Visual Studio Code</h3>
+<p>在商店中直接搜索R就可以了，如图所示。</p>
+<figure>
+    <img src="https://blog.sbat.top/ox-hugo/image_55_2019-09-24_00-11-19.png"/> 
+</figure>
+
+<h3 id="r-lsp-client">R LSP Client</h3>
+<p>在商店中搜索该插件名称即可。</p>
+<p>有了这个它就可以进行代码补全、查看函数定义以及参数预览了。不过想让它生效还需要下面几个小步骤：</p>
+<p>在 <code>R</code> 中安装 <code>languageserver</code> 包打开R控制台，使用下面的命令：</p>
+<p><code>install.packages(&quot;languageserver&quot;)</code></p>
+<p>只有安装了这个包才能实现 R 和 编辑器的同步。</p>
+<blockquote>
+<p>如果安装失败，提示 <code>在此連線階段时请选用CRAN的鏡子 ---Warning: 无法在貯藏處</code> 类似的东西，多换几个镜像就好了。</p>
+</blockquote>
+<h2 id="r语言的配置">R语言的配置</h2>
+<p>在VsCode中按下 <code>Ctrl+Shift+P</code> ，搜索 <code>setting json</code> 打开，在最后一句后面添加粘贴下面代码。路径自行替换,路径地址可以在 <code>cmd</code> 中使用where radian查询。</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-json" data-lang="json"><span style="color:#b44">&#34;r.rterm.windows&#34;</span><span style="">:</span> <span style="color:#b44">&#34;C:\\tools\\Anaconda3\\Scripts\\radian.exe&#34;</span><span style="">,</span>
+<span style="color:#b44">&#34;r.lsp.path&#34;</span><span style="">:</span> <span style="color:#b44">&#34;C:\\Program Files\\R\\R-3.6.1\\bin\\R.exe&#34;</span><span style="">,</span>
+<span style="color:#b44">&#34;r.rterm.option&#34;</span><span style="">:</span> [
+    <span style="">//</span> <span style="color:#b44">&#34;--no-save&#34;</span>,
+    <span style="">//</span> <span style="color:#b44">&#34;--no-restore&#34;</span>,
+    <span style="color:#b44">&#34;--no-site-file&#34;</span>
+</code></pre></div><h2 id="试验">试验</h2>
+<p>重启后Vscode后，使用下面的代码测试是否配置成功。</p>
+<div class="highlight"><pre style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-R" data-lang="R">
+x <span style="color:#666">&lt;-</span> <span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">5</span>
+y <span style="color:#666">&lt;-</span> <span style="color:#666">5</span><span style="color:#666">:</span><span style="color:#666">1</span>
+<span style="color:#080;font-style:italic"># 生成25个点的网格数据</span>
+xy <span style="color:#666">&lt;-</span> <span style="color:#00a000">expand.grid</span>(y<span style="color:#666">=</span>y,x<span style="color:#666">=</span>x)
+<span style="color:#080;font-style:italic"># 画25种pch</span>
+<span style="color:#00a000">plot</span>(xy<span style="color:#666">$</span>x<span style="color:#666">-6</span>,xy<span style="color:#666">$</span>y,pch<span style="color:#666">=</span><span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">25</span>,col<span style="color:#666">=</span><span style="color:#b44">&#34;red&#34;</span>,cex<span style="color:#666">=</span><span style="color:#666">2</span>,
+     xlim<span style="color:#666">=</span><span style="color:#00a000">c</span>(<span style="color:#666">-5.5</span>,<span style="color:#666">6</span>),ylim<span style="color:#666">=</span><span style="color:#00a000">c</span>(<span style="color:#666">-7</span>,<span style="color:#666">6</span>), <span style="color:#080;font-style:italic"># 指定坐标轴范围</span>
+     ann<span style="color:#666">=</span>F,axes<span style="color:#666">=</span>F) <span style="color:#080;font-style:italic"># 这两个参数去掉原有边框</span>
+<span style="color:#00a000">text</span>(<span style="color:#666">3-6</span>,<span style="color:#666">12</span>,<span style="color:#b44">&#34;points pch=&#34;</span>)
+<span style="color:#00a000">text</span>(xy<span style="color:#666">$</span>x<span style="color:#666">+0.4-6</span>,xy<span style="color:#666">$</span>y,<span style="color:#00a000">as.character</span>(<span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">25</span>))
+<span style="color:#080;font-style:italic"># 画6种lty</span>
+<span style="color:#00a000">for</span>(i in <span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">6</span>){
+  <span style="color:#00a000">lines</span>(<span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">5-6</span>,<span style="color:#00a000">rep</span>(i<span style="color:#666">*</span><span style="color:#666">5</span><span style="color:#666">/</span><span style="color:#666">6</span>,<span style="color:#666">5</span>)<span style="color:#666">-7</span>,lty<span style="color:#666">=</span>i,col<span style="color:#666">=</span><span style="color:#b44">&#34;red&#34;</span>,lwd<span style="color:#666">=</span><span style="color:#666">2</span>)
+}
+<span style="color:#00a000">text</span>(<span style="color:#666">3-6</span>,<span style="color:#666">6-7</span>,<span style="color:#b44">&#34;lines lty=&#34;</span>)
+<span style="color:#00a000">text</span>(<span style="color:#00a000">rep</span>(<span style="color:#666">5.35</span>,<span style="color:#666">6</span>)<span style="color:#666">-6</span>,<span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">6</span><span style="color:#666">*</span><span style="color:#666">5</span><span style="color:#666">/</span><span style="color:#666">6-7</span>,<span style="color:#00a000">as.character</span>(<span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">6</span>))
+<span style="color:#080;font-style:italic"># 画8种type</span>
+a <span style="color:#666">&lt;-</span> <span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">3</span>
+b <span style="color:#666">&lt;-</span> <span style="color:#666">-</span>(<span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#666">3</span><span style="color:#666">/</span><span style="color:#666">4</span>)
+typen <span style="color:#666">&lt;-</span> <span style="color:#00a000">c</span>(<span style="color:#b44">&#34;h&#34;</span>,<span style="color:#b44">&#34;p&#34;</span>,<span style="color:#b44">&#34;l&#34;</span>,<span style="color:#b44">&#34;b&#34;</span>,<span style="color:#b44">&#34;o&#34;</span>,<span style="color:#b44">&#34;S&#34;</span>,<span style="color:#b44">&#34;s&#34;</span>,<span style="color:#b44">&#34;n&#34;</span>) <span style="color:#080;font-style:italic"># n指不画线</span>
+<span style="color:#00a000">for</span>(i in <span style="color:#666">1</span><span style="color:#666">:</span><span style="color:#00a000">length</span>(typen)){
+<span style="color:#00a000">points</span>(a,b<span style="color:#666">-0.8</span><span style="color:#666">*</span>i,type<span style="color:#666">=</span>typen[i],col<span style="color:#666">=</span>i<span style="color:#666">+1</span>)
+<span style="color:#00a000">text</span>(<span style="color:#666">0.5</span>,<span style="color:#666">-0.2-0.8</span><span style="color:#666">*</span>i,typen[i],col<span style="color:#666">=</span>i<span style="color:#666">+1</span>)
+}
+<span style="color:#080;font-style:italic"># 画通过原点的坐标轴</span>
+<span style="color:#00a000">axis</span>(<span style="color:#666">1</span>,<span style="color:#00a000">c</span>(<span style="color:#666">-5</span>,<span style="color:#666">0</span>,<span style="color:#666">6</span>),pos<span style="color:#666">=</span><span style="color:#666">0</span>, <span style="color:#080;font-style:italic"># 确定轴的坐标为0</span>
+     col.ticks <span style="color:#666">=</span> <span style="color:#b44">&#34;transparent&#34;</span>,col<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,col.axis<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,
+     hadj<span style="color:#666">=</span><span style="color:#666">-1</span>,padj<span style="color:#666">=</span><span style="color:#666">-1.5</span>) <span style="color:#080;font-style:italic"># 调整刻度名与轴之间的距离</span>
+<span style="color:#00a000">axis</span>(<span style="color:#666">2</span>,<span style="color:#00a000">c</span>(<span style="color:#666">-7</span>,<span style="color:#666">0</span>,<span style="color:#666">6</span>),pos<span style="color:#666">=</span><span style="color:#666">0</span>,
+     col.ticks <span style="color:#666">=</span> <span style="color:#b44">&#34;transparent&#34;</span>,col<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,col.axis<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,
+     hadj<span style="color:#666">=</span><span style="color:#666">1</span>,padj<span style="color:#666">=</span><span style="color:#666">1.5</span>)
+<span style="color:#080;font-style:italic"># 画各种图形</span>
+<span style="color:#00a000">segments</span>(<span style="color:#666">0.5</span>,<span style="color:#666">5</span>,<span style="color:#666">2.5</span>,<span style="color:#666">5</span>,col<span style="color:#666">=</span><span style="color:#666">2</span>) <span style="color:#080;font-style:italic"># 指定首尾坐标</span>
+<span style="color:#00a000">text</span>(<span style="color:#666">6</span>,<span style="color:#666">5</span>,<span style="color:#b44">&#34;segments(1,5,3,5)&#34;</span>,adj<span style="color:#666">=</span><span style="color:#666">1</span>) <span style="color:#080;font-style:italic"># adj=1则文字最左端对应前面指定的坐标</span>
+<span style="color:#00a000">arrows</span>(<span style="color:#666">0.5</span>,<span style="color:#666">4</span>,<span style="color:#666">2.5</span>,<span style="color:#666">4</span>,col<span style="color:#666">=</span><span style="color:#666">3</span>)
+<span style="color:#00a000">text</span>(<span style="color:#666">6</span>,<span style="color:#666">4</span>,<span style="color:#b44">&#34;arrows(1,5,3,5)&#34;</span>,adj<span style="color:#666">=</span><span style="color:#666">1</span>)
+<span style="color:#00a000">rect</span>(<span style="color:#666">0.5</span>,<span style="color:#666">2.7</span>,<span style="color:#666">2.5</span>,<span style="color:#666">3.3</span>,col<span style="color:#666">=</span><span style="color:#b44">&#34;transparent&#34;</span>,border<span style="color:#666">=</span><span style="color:#666">4</span>) <span style="color:#080;font-style:italic"># 颜色可以设为无色</span>
+<span style="color:#00a000">text</span>(<span style="color:#666">6</span>,<span style="color:#666">3</span>,<span style="color:#b44">&#34;rect(0.5,2.7,2.5,3.3)&#34;</span>,adj<span style="color:#666">=</span><span style="color:#666">1</span>)
+<span style="color:#00a000">polygon</span>(<span style="color:#00a000">c</span>(<span style="color:#666">0.5</span>,<span style="color:#666">2.5</span>,<span style="color:#666">2.5</span>,<span style="color:#666">0.5</span>),<span style="color:#00a000">c</span>(<span style="color:#666">1.6</span>,<span style="color:#666">1.6</span>,<span style="color:#666">2.4</span>,<span style="color:#666">2.4</span>), <span style="color:#080;font-style:italic"># 自动封闭填充颜色</span>
+        col<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,border<span style="color:#666">=</span><span style="color:#666">5</span>) <span style="color:#080;font-style:italic"># 画多边形</span>
+<span style="color:#00a000">text</span>(<span style="color:#666">6</span>,<span style="color:#666">2</span>,<span style="color:#b44">&#34;polygon&#34;</span>,adj<span style="color:#666">=</span><span style="color:#666">1</span>)
+<span style="color:#00a000">legend</span>(<span style="color:#b44">&#34;bottomright&#34;</span>,<span style="color:#00a000">c</span>(<span style="color:#b44">&#34;segments&#34;</span>,<span style="color:#b44">&#34;arrows&#34;</span>,<span style="color:#b44">&#34;rect&#34;</span>,<span style="color:#b44">&#34;polygon&#34;</span>),
+       text.col<span style="color:#666">=</span><span style="color:#666">2</span><span style="color:#666">:</span><span style="color:#666">5</span>,lty<span style="color:#666">=</span><span style="color:#666">1</span>,pch<span style="color:#666">=</span><span style="color:#666">16</span>,col<span style="color:#666">=</span><span style="color:#666">2</span><span style="color:#666">:</span><span style="color:#666">5</span>,bg<span style="color:#666">=</span><span style="color:#b44">&#34;grey&#34;</span>,title<span style="color:#666">=</span><span style="color:#b44">&#34;legend&#34;</span>)
+
+</code></pre></div><p>效果如图：</p>
+<figure>
+    <img src="https://blog.sbat.top/ox-hugo/image_56_2019-09-24_00-30-37.png"/> 
+</figure>
+
+<h2 id="快捷键">快捷键</h2>
+<p>选中执行是 <code>ctrl + Enter</code></p>
+<p>执行文件是 <code>ctrl + Shift + s</code> 或者点击右上角的小图标</p>
+<figure>
+    <img src="https://blog.sbat.top/ox-hugo/image_57_2019-09-24_00-31-51.png"/> 
+</figure>
+
+<h2 id="参考文献">参考文献</h2>
+<p><a href="https://zhuanlan.zhihu.com/p/65966331">VSCode 愉快地使用 R - 知乎</a></p>
+<p><a href="https://www.neusncp.com/user/blog?id=191">VS Code中使用R语言扩展的相关配置 - NEUSNCP</a></p>
+<p><a href="https://blog.csdn.net/jianjewl/article/details/69257841">R语言绘图、高清保存、以及颜色系统 - 打不死的小强 - CSDN博客</a></p>
+
+    </div>
+    <footer class="post-footer">
+     
+ 
+<div class="post-tags">     
+     
+    <a href="https://blog.sbat.top/tags/r" rel="tag" title="R">#R#</a>
+    
+</div>
+
+
+
+     <div class="post-nav">
+    <div class="post-nav-next post-nav-item">
+    
+        <a href="https://blog.sbat.top/post/2019-10-15t1455/" rel="next" title="2018-2019学习成果总结">
+        <i class="fa fa-chevron-left"></i> 2018-2019学习成果总结
+        </a>
+    
+    </div>
+
+    <div class="post-nav-prev post-nav-item">
+    
+        <a href="https://blog.sbat.top/post/2019-09-13t2157/" rel="prev" title="centos7的防火墙开放端口">
+        centos7的防火墙开放端口 <i class="fa fa-chevron-right"></i>
+        </a>
+    
+    </div>
+</div>
+      
+     
+     
+     
+
+
+
+
+
+
+    </footer>
+  </article>
+</section>
+
+          </div>
+        </div>
+        <div class="sidebar-toggle">
+  <div class="sidebar-toggle-line-wrap">
+    <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+    <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+    <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+  </div>
+</div>
+<aside id="sidebar" class="sidebar">
+  <div class="sidebar-inner">
+
+    <section class="site-overview sidebar-panel  sidebar-panel-active ">
+      <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image"
+        src="https://blog.sbat.top/img/author.jpg"
+        alt="一品书生" />
+    <p class="site-author-name" itemprop="name">一品书生</p>
+    <p class="site-description motion-element" itemprop="description"> 
+        Programmer &amp; Architect</p>
+</div>
+      <nav class="site-state motion-element">
+    <div class="site-state-item site-state-posts">
+      <a href="https://blog.sbat.top/post/">
+        <span class="site-state-item-count">18</span>
+        <span class="site-state-item-name">日志</span>
+      </a>
+    </div>
+    <div class="site-state-item site-state-categories">    
+        <a href="https://blog.sbat.top/categories/">      
+         
+        <span class="site-state-item-count">14</span>
+        
+        <span class="site-state-item-name">分类</span>
+        
+        </a>
+    </div>
+
+    <div class="site-state-item site-state-tags">
+        <a href="https://blog.sbat.top/tags/">
+         
+        <span class="site-state-item-count">16</span>
+        
+        <span class="site-state-item-name">标签</span>
+        </a>
+    </div>
+</nav>
+      
+      
+<div class="links-of-author motion-element">
+    
+        <span class="links-of-author-item">
+        <a href="https://github.com/xx299x" target="_blank" title="GitHub">
+            <i class="fa fa-fw fa-github"></i>
+            GitHub
+        </a>
+        </span>
+    
+        <span class="links-of-author-item">
+        <a href="https://www.zhihu.com/people/xu-zhi-guo-53/activities" target="_blank" title="知乎">
+            <i class="fa fa-fw fa-globe"></i>
+            知乎
+        </a>
+        </span>
+    
+</div>
+
+
+      
+
+      <div class="links-of-blogroll motion-element inline">
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5b4f2ucxar6&amp;m=0&amp;s=220&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;bv=35" async="async"></script>
+</div>
+
+    </section>
+    
+  </div>
+</aside>
+
+      </div>
+    </main>
+   
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  <span itemprop="copyrightYear">  &copy; 
+  2009 - 2021</span>
+  <span class="with-love"><i class="fa fa-heart"></i></span>
+  <span class="author" itemprop="copyrightHolder">一品书生</span>
+</div>
+<div class="powered-by">
+  Powered by - <a class="theme-link" href="http://gohugo.io" target="_blank" title="hugo" >Hugo v0.80.0</a>
+</div>
+<div class="theme-info">
+  Theme by - <a class="theme-link" href="https://github.com/xtfly/hugo-theme-next" target="_blank"> NexT
+  </a>
+</div>
+
+
+      </div>
+    </footer>
+
+    <div class="back-to-top">
+      <i class="fa fa-arrow-up"></i>
+      <span id="scrollpercent"><span>0</span>%</span>
+    </div>
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+<script type="text/javascript" src="https://blog.sbat.top/js/vendor/jquery/index.js?v=2.1.3"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/vendor/fastclick/lib/fastclick.min.js?v=1.0.6"></script> 
+<script type="text/javascript" src="https://blog.sbat.top/js/vendor/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/vendor/velocity/velocity.min.js?v=1.2.1"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/vendor/velocity/velocity.ui.min.js?v=1.2.1"></script>
+<script src="https://blog.sbat.top/js/vendor/ua-parser-js/dist/ua-parser.min.js?v=0.7.9"></script>
+
+<script src="https://blog.sbat.top/js/vendor/fancybox/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+<script type="text/javascript" src="https://blog.sbat.top/js/utils.js"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/motion.js"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/affix.js"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/schemes/pisces.js"></script>
+
+<script type="text/javascript" src="https://blog.sbat.top/js/scrollspy.js"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/post-details.js"></script>
+<script type="text/javascript" src="https://blog.sbat.top/js/toc.js"></script>
+
+<script type="text/javascript" src="https://blog.sbat.top/js/bootstrap.js"></script>
+
+<script type="text/javascript" src="https://blog.sbat.top/js/search.js"></script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    extensions: ["tex2jax.js"],
+    jax: ["input/TeX", "output/HTML-CSS"],
+    tex2jax: {
+      inlineMath: [ ['$','$'] ],
+      displayMath: [ ['$$','$$'] ],
+      processEscapes: true
+    },
+    "HTML-CSS": { fonts: ["TeX"] }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML' async></script>
+</body>
+</html>
