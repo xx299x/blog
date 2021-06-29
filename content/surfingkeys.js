@@ -9,7 +9,6 @@ mapkey('<Ctrl-y>', 'Show me the money', function() {
 //unmap('v') 
 //map('v','zv');
 //map('zv','v');
-
 map('cr','cS');
 map("a","'");
 // mapkey('cr', '#12Open Chrome Downloads', function() {
