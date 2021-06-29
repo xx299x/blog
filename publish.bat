@@ -24,7 +24,7 @@ hugo
 
 echo "Updating gh-pages branch"
 REM pause
-cd C:\\Users\\xx299\\Documents\\blog\\public\\
+cd public
 
 git add --all
 
