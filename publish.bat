@@ -1,4 +1,4 @@
-cd C:\\Users\\xx299\\my_site\\
+cd C:\\Users\\xx299\\Documents\\blog\\
 
 echo "Deleting old publication"
 
@@ -24,7 +24,7 @@ hugo
 
 echo "Updating gh-pages branch"
 pause
-cd C:\\Users\\xx299\\my_site\\public\\
+cd C:\\Users\\xx299\\Documents\\blog\\public\\
 
 git add --all
 
