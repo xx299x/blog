@@ -83,4 +83,8 @@ DefaultContentLanguage = "zh"
 [[Params.Socials]]
   Name = "知乎"
   Icon = "globe"
-  URL = "https://www.zhihu.com/people/xu-zhi-guo-53/activities"  
+  URL = "https://www.zhihu.com/people/xu-zhi-guo-53/activities" 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    startLevel = 1  

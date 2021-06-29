@@ -1,29 +1,29 @@
 cd C:\\Users\\xx299\\Documents\\blog\\
 
-echo "Deleting old publication"
+REM echo "Deleting old publication"
 
-rm -rf public
-mkdir public
-pause
-git worktree prune
+REM rm -rf public
+REM mkdir public
+REM pause
+REM git worktree prune
 
-rm -rf .git/worktrees/public/
+REM rm -rf .git/worktrees/public/
 
-pause
-echo "Checking out gh-pages branch into public"
+REM pause
+REM echo "Checking out gh-pages branch into public"
 
-git worktree add -B gh-pages public origin/gh-pages
+REM git worktree add -B gh-pages public origin/gh-pages
 
-echo "Removing existing files"
+REM echo "Removing existing files"
 
 rm -rf public/*
 
-echo "Generating site"
+REM echo "Generating site"
 
 hugo
 
 echo "Updating gh-pages branch"
-pause
+REM pause
 cd C:\\Users\\xx299\\Documents\\blog\\public\\
 
 git add --all
@@ -35,4 +35,4 @@ echo "Pushing to github"
 
 git push --all -f
 
-pause
+REM pause
