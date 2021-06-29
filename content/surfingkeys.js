@@ -46,12 +46,23 @@ mapkey('gd', '#12Open Chrome Downloads', function() {
 tabOpenLink("extension://mciiogijehkdemklbdcbfkefimifhecn/ui/index.htm")}
 )
 //
-addSearchAliasX('g', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&safe=strict&ei=&q=');
+addSearchAliasX('g', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&ei=&q=');
+addSearchAliasX('gy', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&tbs=qdr:y&ei=&q=');
+addSearchAliasX('gm', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&tbs=qdr:m&ei=&q=');
+addSearchAliasX('gw', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&tbs=qdr:m&ei=&q=');
+addSearchAliasX('gd', 'Hong Kong',  'https://www.google.com.hk/search?num=30&newwindow=1&tbs=qdr:d&ei=&q=');
 mapkey('og', '#8Open  Hong Kong Google', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "g"});
 });
 
-addSearchAliasX('pj', '52PJ search', 'https://www.52pojie.cn/search.php?mod=forum&adv=yes&srchtxt=');
+// bug
+addSearchAliasX('u', 'bug search', 'https://www.google.com.hk/search?num=30&newwindow=1&ei=&q=site:stackoverflow.com OR site:segmentfault.com OR site:v2ex.com OR site:cnblogs.com OR site:juejin.cn ');
+mapkey('ou','#8Open  bug', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: "u"});
+});
+
+
+addSearchAliasX('pj', '52PJ search', 'https://www.google.com.hk/search?num=30&newwindow=1&ei=&q=site:52pojie.cn');
 mapkey('opj', '#8Open  52PJ', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "pj"});
 });
@@ -101,12 +112,6 @@ mapkey('opy', '#8Open  Python', function() {
 addSearchAliasX('se', 'Selenium search', 'https://selenium-python.readthedocs.io/search.html?q=');
 mapkey('ose', '#8Open  Selenium', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "se"});
-});
-
-//CSDN
-addSearchAliasX('cs', 'CSDN search', 'https://so.csdn.net/so/search/s.do?q=');
-mapkey('ocs', '#8Open  CSDN', function() {
-    Front.openOmnibar({type: "SearchEngine", extra: "cs"});
 });
 
   
@@ -179,7 +184,7 @@ mapkey('oyy', '#8Open  用药助手', function() {
 });
   
 //查企业
-addSearchAliasX('qy', '查企业 search', 'https://www.qichacha.com/search?key=');
+addSearchAliasX('qy', '查企业 search', 'https://www.qcc.com/web/search?key=');
 mapkey('oqy', '#8Open  查企业', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "qy"});
 });
@@ -205,11 +210,6 @@ mapkey('otl', '#8Open  tldr', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "tl"});
 });
 
-//思否
-addSearchAliasX('sf', '思否 search', 'https://segmentfault.com/search?q=');
-mapkey('osf', '#8Open  思否', function() {
-    Front.openOmnibar({type: "SearchEngine", extra: "sf"});
-});
   
 //bilibili
 addSearchAliasX('ll', 'bilibili search', 'https://search.bilibili.com/all?keyword=');
@@ -406,12 +406,12 @@ mapkey('odi', '#8Open 单词比较不同', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'jj'});
 });
 //谷歌扩展插件
-addSearchAliasX('eg', 'diff','https://chrome.google.com/webstore/search/');
+addSearchAliasX('eg', '谷歌扩展','https://chrome.google.com/webstore/search/');
 mapkey('oeg', '#8Open 谷歌扩展', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'eg'});
 });
 //Micrsoft 插件
-addSearchAliasX('ee', 'diff','https://www.google.com.hk/search?q=site:wikidiff.com ');
+addSearchAliasX('ee', 'Microsoft插件','https://www.google.com.hk/search?q=site:wikidiff.com ');
 mapkey('oee', '#8Open Microsoft插件 ', function() {
     Front.openOmnibar({type: "SearchEngine", extra: 'ee'});
 });
@@ -427,6 +427,19 @@ addSearchAliasX('pd', 'pandas search', 'https://pandas.pydata.org/pandas-docs/st
 mapkey('opd', '#8Open  pandas', function() {
     Front.openOmnibar({type: "SearchEngine", extra: "pd"});
 });
+
+//Ai搜索
+addSearchAliasX('sm', 'magi search', 'https://magi.com/search?q=');
+mapkey('osm', '#8Open  Ai 搜索', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: "sm"});
+});
+
+//小工具
+addSearchAliasX('te', '在线工具大全 search', 'https://www.google.com.hk/search?q=www.tooleyes.com ');
+mapkey('ote', '#8Open  在线工具 搜索', function() {
+    Front.openOmnibar({type: "SearchEngine", extra: "te"});
+});
+
 
 ////////// 翻译设置
 /* Front.registerInlineQuery({
