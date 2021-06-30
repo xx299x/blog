@@ -1,0 +1,35 @@
+Description = "一品书生 | 博客 | 高效工作 | Python"
+Keywords =  "一品书生,独立,博客,程序员,数据分析师,个人,思考,读书,笔记,技术,分享,管理"
+Subtitle = "生产工具决定生产效率"
+AuthorImg = "/img/author.jpg"
+AuthorName = "一品书生"
+Introduce = "品味人生"
+DateFormat = "2006-01-02"
+YearFormat = "2006年"
+MonthFormat = "01-02"
+
+[[Socials]]
+  Name = "GitHub"
+  Icon = "github"
+  URL = "https://github.com/xx299x"
+
+[[Socials]]
+  Name = "知乎"
+  Icon = "globe"
+  URL = "https://www.zhihu.com/people/xu-zhi-guo-53"
+
+## [[Links]]
+##   Name = "Nutz"
+##   Permalink = "https://nutzam.com/"
+## 
+## [[Links]]
+##   Name = "JFinal"
+##   Permalink = "https://jfinal.com/"
+## 
+## [[Links]]
+##   Name = "Wendal"
+##   Permalink = "http://wendal.net/"
+## 
+## [[Links]]
+##   Name = "廖雪峰"
+##   Permalink = "https://www.liaoxuefeng.com/"

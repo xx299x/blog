@@ -6,6 +6,7 @@ mapkey('<Ctrl-y>', 'Show me the money', function() {
 //     window.open("extension://klibmapgcnoakgokdhnfhlngdphiiinp/ui/index.htm");
 // });
 //将zv与v互换
+//
 //unmap('v') 
 //map('v','zv');
 //map('zv','v');

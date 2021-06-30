@@ -1,0 +1,31 @@
+[TagsCloud]
+  Enable = true
+  Limit = 10
+
+[Share]
+  Enable = true
+  AddthisId = "Your AddthisId"
+
+[Comment]
+  Enable = true
+  Module = "Waline"
+  LiveReId = "Your LiveReId"
+  WalineSerURL = "https://blog-snowy-one.vercel.app/"
+
+[LeanCloud]
+  AppId = "igrwSn6LYWlc3cljBYmkQRaT-MdYXbMMI"
+  AppKey = "F61RSyd6r2KAYamJW22Ua7kc"
+  ServerURL = "https://blog-snowy-one.vercel.app/"
+
+[Statis]
+  BusuanziCounter = true
+  CNNZSiteId = "Your CNNZSiteId"
+  BaiduSiteId = "Your BaiduSiteId"
+  GoogleSiteId = "Your GoogleSiteId"
+
+[OnlineIM]
+  Enable = true
+  DaoVoiceId = "73569e96"
+
+[Others]
+  RevolverMapId = "Your RevolverMapId"
