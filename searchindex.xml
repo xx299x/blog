@@ -694,4 +694,7 @@ Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-Learn more and contribute on GitHub.</content></entry></search>
+Learn more and contribute on GitHub.</content></entry><entry><title/><url>https://blog.sbat.top/post/%E6%B5%8B%E8%AF%95%E7%AC%94%E8%AE%B0/</url><categories/><tags/><content type="html"> 测试笔记 +++ title = &ldquo;测试笔记，在Vnote中写博客&rdquo; date = 2020-05-29 lastmod = 2020-05-29T23:54:40+08:00 tags = [&ldquo;英语学习&rdquo;, &ldquo;计划&rdquo;] categories = ["@学习日志"] draft = false toc = false +++
+现在，我要插入一个本地图片。 现在，我要插入一个远程图片： 很好，我现在想插入一个附件。
+file:///C:/Users/xx299/blog/content/CNAME
+准备发布</content></entry></search>
